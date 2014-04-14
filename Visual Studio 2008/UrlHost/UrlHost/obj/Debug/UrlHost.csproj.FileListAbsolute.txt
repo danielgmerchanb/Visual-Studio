@@ -1,5 +1,0 @@
-D:\Mis Documentos\Visual Studio 2008\Projects\UrlHost\UrlHost\bin\Debug\UrlHost.exe
-D:\Mis Documentos\Visual Studio 2008\Projects\UrlHost\UrlHost\bin\Debug\UrlHost.pdb
-D:\Mis Documentos\Visual Studio 2008\Projects\UrlHost\UrlHost\obj\Debug\ResolveAssemblyReference.cache
-D:\Mis Documentos\Visual Studio 2008\Projects\UrlHost\UrlHost\obj\Debug\UrlHost.exe
-D:\Mis Documentos\Visual Studio 2008\Projects\UrlHost\UrlHost\obj\Debug\UrlHost.pdb

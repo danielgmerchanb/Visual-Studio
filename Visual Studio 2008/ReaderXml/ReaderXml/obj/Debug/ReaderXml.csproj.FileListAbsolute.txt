@@ -1,5 +1,0 @@
-D:\Mis Documentos\Visual Studio 2008\Projects\ReaderXml\ReaderXml\bin\Debug\ReaderXml.exe
-D:\Mis Documentos\Visual Studio 2008\Projects\ReaderXml\ReaderXml\bin\Debug\ReaderXml.pdb
-D:\Mis Documentos\Visual Studio 2008\Projects\ReaderXml\ReaderXml\obj\Debug\ResolveAssemblyReference.cache
-D:\Mis Documentos\Visual Studio 2008\Projects\ReaderXml\ReaderXml\obj\Debug\ReaderXml.exe
-D:\Mis Documentos\Visual Studio 2008\Projects\ReaderXml\ReaderXml\obj\Debug\ReaderXml.pdb

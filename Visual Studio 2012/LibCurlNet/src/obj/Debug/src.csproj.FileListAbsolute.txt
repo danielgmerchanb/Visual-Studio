@@ -1,5 +1,0 @@
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\src\bin\Debug\LibCurlNet.dll
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\src\bin\Debug\LibCurlNet.pdb
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\src\obj\Debug\src.csprojResolveAssemblyReference.cache
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\src\obj\Debug\LibCurlNet.dll
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\src\obj\Debug\LibCurlNet.pdb

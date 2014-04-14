@@ -1,6 +1,0 @@
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\bin\Debug\SendEMail.exe
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\bin\Debug\SendEMail.pdb
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\obj\x86\Debug\SendEMail.exe
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\obj\x86\Debug\SendEMail.pdb
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\bin\Debug\SendEMail.exe.config
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\obj\x86\Debug\SendEMail.csprojResolveAssemblyReference.cache

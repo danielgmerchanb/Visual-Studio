@@ -1,5 +1,0 @@
-D:\Mis Documentos\Visual Studio 2008\Projects\EmuladorAutenticacion\EmuladorAutenticacion\obj\Debug\ResolveAssemblyReference.cache
-D:\Mis Documentos\Visual Studio 2008\Projects\EmuladorAutenticacion\EmuladorAutenticacion\bin\EmuladorAutenticacion.dll
-D:\Mis Documentos\Visual Studio 2008\Projects\EmuladorAutenticacion\EmuladorAutenticacion\bin\EmuladorAutenticacion.pdb
-D:\Mis Documentos\Visual Studio 2008\Projects\EmuladorAutenticacion\EmuladorAutenticacion\obj\Debug\EmuladorAutenticacion.dll
-D:\Mis Documentos\Visual Studio 2008\Projects\EmuladorAutenticacion\EmuladorAutenticacion\obj\Debug\EmuladorAutenticacion.pdb

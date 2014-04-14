@@ -1,5 +1,0 @@
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\bin\Release\SendEMail.exe.config
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\bin\Release\SendEMail.exe
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\bin\Release\SendEMail.pdb
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\obj\x86\Release\SendEMail.exe
-c:\users\danmerbe\documents\visual studio 2010\Projects\SendEMail\SendEMail\obj\x86\Release\SendEMail.pdb

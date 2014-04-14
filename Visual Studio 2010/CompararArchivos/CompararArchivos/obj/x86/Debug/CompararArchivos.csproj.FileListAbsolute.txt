@@ -1,9 +1,0 @@
-C:\Users\danmerbe\documents\visual studio 2010\Projects\CompararArchivos\CompararArchivos\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\danmerbe\documents\visual studio 2010\Projects\CompararArchivos\CompararArchivos\obj\x86\Debug\CompararArchivos.frmConsola.resources
-C:\Users\danmerbe\documents\visual studio 2010\Projects\CompararArchivos\CompararArchivos\obj\x86\Debug\CompararArchivos.Properties.Resources.resources
-C:\Users\danmerbe\documents\visual studio 2010\Projects\CompararArchivos\CompararArchivos\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\danmerbe\documents\visual studio 2010\Projects\CompararArchivos\CompararArchivos\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\danmerbe\documents\visual studio 2010\Projects\CompararArchivos\CompararArchivos\bin\Debug\CompararArchivos.exe
-C:\Users\danmerbe\documents\visual studio 2010\Projects\CompararArchivos\CompararArchivos\bin\Debug\CompararArchivos.pdb
-C:\Users\danmerbe\documents\visual studio 2010\Projects\CompararArchivos\CompararArchivos\obj\x86\Debug\CompararArchivos.exe
-C:\Users\danmerbe\documents\visual studio 2010\Projects\CompararArchivos\CompararArchivos\obj\x86\Debug\CompararArchivos.pdb
