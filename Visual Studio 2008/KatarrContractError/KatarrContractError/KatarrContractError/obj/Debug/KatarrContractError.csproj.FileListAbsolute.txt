@@ -1,0 +1,6 @@
+D:\Mis Documentos\Visual Studio 2008\Projects\KatarrContractError\KatarrContractError\bin\Debug\KatarrContractError.exe
+D:\Mis Documentos\Visual Studio 2008\Projects\KatarrContractError\KatarrContractError\bin\Debug\KatarrContractError.pdb
+D:\Mis Documentos\Visual Studio 2008\Projects\KatarrContractError\KatarrContractError\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2008\Projects\KatarrContractError\KatarrContractError\obj\Debug\KatarrContractError.exe
+D:\Mis Documentos\Visual Studio 2008\Projects\KatarrContractError\KatarrContractError\obj\Debug\KatarrContractError.pdb
+D:\Mis Documentos\Visual Studio 2008\Projects\KatarrContractError\KatarrContractError\bin\Debug\KatarrContractError.exe.config

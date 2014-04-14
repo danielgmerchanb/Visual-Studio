@@ -1,0 +1,6 @@
+c:\users\danmerbe\documents\visual studio 2012\Projects\ApiNoIp\ApiNoIp\bin\Debug\ApiNoIp.exe.config
+c:\users\danmerbe\documents\visual studio 2012\Projects\ApiNoIp\ApiNoIp\bin\Debug\ApiNoIp.exe
+c:\users\danmerbe\documents\visual studio 2012\Projects\ApiNoIp\ApiNoIp\bin\Debug\ApiNoIp.pdb
+c:\users\danmerbe\documents\visual studio 2012\Projects\ApiNoIp\ApiNoIp\obj\Debug\ApiNoIp.csprojResolveAssemblyReference.cache
+c:\users\danmerbe\documents\visual studio 2012\Projects\ApiNoIp\ApiNoIp\obj\Debug\ApiNoIp.exe
+c:\users\danmerbe\documents\visual studio 2012\Projects\ApiNoIp\ApiNoIp\obj\Debug\ApiNoIp.pdb

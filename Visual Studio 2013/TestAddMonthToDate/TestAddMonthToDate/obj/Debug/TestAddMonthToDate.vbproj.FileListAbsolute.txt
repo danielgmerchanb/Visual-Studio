@@ -1,0 +1,9 @@
+c:\users\danmerbe\documents\visual studio 2013\Projects\TestAddMonthToDate\TestAddMonthToDate\bin\Debug\TestAddMonthToDate.exe.config
+c:\users\danmerbe\documents\visual studio 2013\Projects\TestAddMonthToDate\TestAddMonthToDate\bin\Debug\TestAddMonthToDate.exe
+c:\users\danmerbe\documents\visual studio 2013\Projects\TestAddMonthToDate\TestAddMonthToDate\bin\Debug\TestAddMonthToDate.pdb
+c:\users\danmerbe\documents\visual studio 2013\Projects\TestAddMonthToDate\TestAddMonthToDate\bin\Debug\TestAddMonthToDate.xml
+c:\users\danmerbe\documents\visual studio 2013\Projects\TestAddMonthToDate\TestAddMonthToDate\obj\Debug\TestAddMonthToDate.Resources.resources
+c:\users\danmerbe\documents\visual studio 2013\Projects\TestAddMonthToDate\TestAddMonthToDate\obj\Debug\TestAddMonthToDate.vbproj.GenerateResource.Cache
+c:\users\danmerbe\documents\visual studio 2013\Projects\TestAddMonthToDate\TestAddMonthToDate\obj\Debug\TestAddMonthToDate.exe
+c:\users\danmerbe\documents\visual studio 2013\Projects\TestAddMonthToDate\TestAddMonthToDate\obj\Debug\TestAddMonthToDate.xml
+c:\users\danmerbe\documents\visual studio 2013\Projects\TestAddMonthToDate\TestAddMonthToDate\obj\Debug\TestAddMonthToDate.pdb

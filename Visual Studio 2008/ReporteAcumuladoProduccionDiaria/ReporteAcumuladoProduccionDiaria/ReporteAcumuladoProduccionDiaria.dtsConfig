@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+  <DTSConfigurationHeading>
+    <DTSConfigurationFileInfo GeneratedBy="CARVAJAL\danmerbe" GeneratedFromPackageName="ReporteAcumuladoProduccionDiaria" GeneratedFromPackageID="{1B335858-7F12-4A0D-8EC2-DCFBF532DE93}" GeneratedDate="03/05/2013 12:06:53 p.m."/>
+  </DTSConfigurationHeading>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>Provider=Microsoft.Jet.OLEDB.4.0;User ID=;Data Source=X:\Programas\ReporteAcumuladoProduccionDiaria\Informe Acumulado Producción Diaria.xls;Extended Properties="EXCEL 8.0;HDR=YES";</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[Description]" ValueType="String">
+    <ConfiguredValue></ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[ExcelFilePath]" ValueType="String">
+    <ConfiguredValue>X:\Programas\ReporteAcumuladoProduccionDiaria\Informe Acumulado Producción Diaria.xls</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[ExcelVersionNumber]" ValueType="Int32">
+    <ConfiguredValue>3</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[FirstRowHasColumnName]" ValueType="Boolean">
+    <ConfiguredValue>1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[InitialCatalog]" ValueType="String">
+    <ConfiguredValue></ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[Name]" ValueType="String">
+    <ConfiguredValue>EXCEL</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[Password]" ValueType="String">
+    <ConfiguredValue></ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[ProtectionLevel]" ValueType="Int32">
+    <ConfiguredValue>1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[RetainSameConnection]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[ServerName]" ValueType="String">
+    <ConfiguredValue>X:\Programas\ReporteAcumuladoProduccionDiaria\Informe Acumulado Producción Diaria.xls</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[EXCEL].Properties[UserName]" ValueType="String">
+    <ConfiguredValue></ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[NUEVO INFORME].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>X:\Programas\ReporteAcumuladoProduccionDiaria\Informe Acumulado Producción Diaria.xls</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[NUEVO INFORME].Properties[Description]" ValueType="String">
+    <ConfiguredValue></ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[NUEVO INFORME].Properties[FileUsageType]" ValueType="Int32">
+    <ConfiguredValue>1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[NUEVO INFORME].Properties[Name]" ValueType="String">
+    <ConfiguredValue>NUEVO INFORME</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[NUEVO INFORME].Properties[ProtectionLevel]" ValueType="Int32">
+    <ConfiguredValue>1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[PLANTILLA].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>X:\Programas\ReporteAcumuladoProduccionDiaria\Plantilla_Informe Acumulado Producción Diaria.xls</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[PLANTILLA].Properties[Description]" ValueType="String">
+    <ConfiguredValue></ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[PLANTILLA].Properties[FileUsageType]" ValueType="Int32">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[PLANTILLA].Properties[Name]" ValueType="String">
+    <ConfiguredValue>PLANTILLA</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[PLANTILLA].Properties[ProtectionLevel]" ValueType="Int32">
+    <ConfiguredValue>1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SMTP].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>SmtpServer=mailserver;UseWindowsAuthentication=True;EnableSsl=False;</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SMTP].Properties[Description]" ValueType="String">
+    <ConfiguredValue>Servidor de Correo SMTP</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SMTP].Properties[EnableSsl]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SMTP].Properties[Name]" ValueType="String">
+    <ConfiguredValue>SMTP</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SMTP].Properties[ProtectionLevel]" ValueType="Int32">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SMTP].Properties[SmtpServer]" ValueType="String">
+    <ConfiguredValue>mailserver</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SMTP].Properties[UseWindowsAuthentication]" ValueType="Boolean">
+    <ConfiguredValue>-1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SQL].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>Data Source=192.168.29.51;User ID=danmerbe;Initial Catalog=PaginasAmarillas;Provider=SQLOLEDB;Auto Translate=false;</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SQL].Properties[Description]" ValueType="String">
+    <ConfiguredValue></ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SQL].Properties[InitialCatalog]" ValueType="String">
+    <ConfiguredValue>PaginasAmarillas</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SQL].Properties[Name]" ValueType="String">
+    <ConfiguredValue>SQL</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SQL].Properties[Password]" ValueType="String">
+    <ConfiguredValue>gerEdit!.$</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SQL].Properties[ProtectionLevel]" ValueType="Int32">
+    <ConfiguredValue>1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SQL].Properties[RetainSameConnection]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SQL].Properties[ServerName]" ValueType="String">
+    <ConfiguredValue>192.168.29.51</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[SQL].Properties[UserName]" ValueType="String">
+    <ConfiguredValue>danmerbe</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[BCCLine]" ValueType="String">
+    <ConfiguredValue></ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[CCLine]" ValueType="String">
+    <ConfiguredValue>auditoresProductosInternet@publicar.com</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[DebugMode]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[DelayValidation]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[Description]" ValueType="String">
+    <ConfiguredValue>Envía correo electronico con el informe adjunto.</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[Disable]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[DisableEventHandlers]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[FailPackageOnFailure]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[FailParentOnFailure]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[FileAttachments]" ValueType="String">
+    <ConfiguredValue>X:\Programas\ReporteAcumuladoProduccionDiaria\Informe Acumulado Producción Diaria.xls</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[ForcedExecutionValue]" ValueType="Int32">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[ForceExecutionResult]" ValueType="Int32">
+    <ConfiguredValue>-1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[ForceExecutionValue]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[FromLine]" ValueType="String">
+    <ConfiguredValue>monitoreointernet@publicar.com</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[IsolationLevel]" ValueType="Int32">
+    <ConfiguredValue>1048576</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[LocaleID]" ValueType="Int32">
+    <ConfiguredValue>9226</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[LoggingMode]" ValueType="Int32">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[MaximumErrorCount]" ValueType="Int32">
+    <ConfiguredValue>1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[MessageSource]" ValueType="String">
+    <ConfiguredValue>
+      Buenos días,
+
+
+      Adjunto el Informe Acumulado de Producción Diaria.
+
+
+      Atentamente,
+
+
+      Daniel Guillermo Merchán Benavides
+      Analista Junior
+      Carvajal Información - Unidad Digital
+      Av. 68  # 75A-50 C.C. Metrópolis, Piso 4
+      Teléfono: (57) - 1 - 6465555 Ext. 16598
+      Fax: (57) - 1 - 6 46 55 62/63
+      Móvil: (57) 321 4 49 92 22
+      daniel.merchan2@carvajal.com
+      Bogotá D.C. - Colombia.
+    </ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[MessageSourceType]" ValueType="Int32">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[Name]" ValueType="String">
+    <ConfiguredValue>04 ENVIAR CORREO INFORME</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[Priority]" ValueType="Int32">
+    <ConfiguredValue>3</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[SmtpConnection]" ValueType="String">
+    <ConfiguredValue>SMTP</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[Subject]" ValueType="String">
+    <ConfiguredValue>Informe Acumulado Producción Diaria</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[SuspendRequired]" ValueType="Boolean">
+    <ConfiguredValue>0</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[ToLine]" ValueType="String">
+    <ConfiguredValue>maria.londono3@carvajal.com</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\04 ENVIAR CORREO INFORME.Properties[TransactionOption]" ValueType="Int32">
+    <ConfiguredValue>1</ConfiguredValue>
+  </Configuration>
+</DTSConfiguration>

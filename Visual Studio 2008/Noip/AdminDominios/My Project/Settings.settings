@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DominioAborrar" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;www.unidaddigital01.com&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="url_NoIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.noip.com/api/mdns/api-rpc.php</Value>
+    </Setting>
+    <Setting Name="email_NoIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dns@publicar.com</Value>
+    </Setting>
+    <Setting Name="customerid_NoIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">publicar_dns</Value>
+    </Setting>
+    <Setting Name="LogFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">appBorrarDominio.log</Value>
+    </Setting>
+    <Setting Name="StatsLogFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:/LogsAppPropias/BorradoDominiosNoip/</Value>
+    </Setting>
+    <Setting Name="IPSitioWeb" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">107.23.132.196</Value>
+    </Setting>
+    <Setting Name="infoMXEveryOne1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sitemail.everyone.net</Value>
+    </Setting>
+    <Setting Name="infoMXEveryOne2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sitemail2.everyone.net</Value>
+    </Setting>
+    <Setting Name="IPSitioWeb_Infoplus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.2.3.4</Value>
+    </Setting>
+    <Setting Name="grupoInfoPlus_NoIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dominiosInfoPlus</Value>
+    </Setting>
+    <Setting Name="grupoDominios_NoIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dominiosPropios</Value>
+    </Setting>
+    <Setting Name="grupoAdminSites_NoIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">domPropiosAdminSites</Value>
+    </Setting>
+    <Setting Name="SitioInfoMXEveryOne" Type="System.String" Scope="User">
+      <Value Profile="(Default)">siteurl.everyone.net</Value>
+    </Setting>
+    <Setting Name="infoPopEveryOne" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pop.everyone.net</Value>
+    </Setting>
+    <Setting Name="infoSmtpEveryOne" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.everyone.net</Value>
+    </Setting>
+    <Setting Name="infoImapEveryOne" Type="System.String" Scope="User">
+      <Value Profile="(Default)">imap.everyone.net</Value>
+    </Setting>
+    <Setting Name="infoMXBrasil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">quimera.frontier.com.br</Value>
+    </Setting>
+    <Setting Name="infoWebmailBrasil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">webmailpublicar.frontier.com.br</Value>
+    </Setting>
+    <Setting Name="infoPopBrasil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">quimera.frontier.com.br</Value>
+    </Setting>
+    <Setting Name="infoSmtpBrasil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">quimera.frontier.com.br</Value>
+    </Setting>
+    <Setting Name="IPReadServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">107.23.132.196</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Administracion2013!.$</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

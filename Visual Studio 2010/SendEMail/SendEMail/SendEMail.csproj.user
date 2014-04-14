@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>infraestructuradigital@carvajal.com "Infraestructura Digital" daniel.merchan2@carvajal.com "" "" High "Prueba Envío de Correo" "Ya llegue."</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartArguments>"infraestructuradigital@carvajal.com" "InfraestructuraDigital@carvajal.com" "infraestructuradigital@carvajal.com" "Operacion7x24@carvajal.com" "" "High" "Correo Prueba - Error Dollar Universe AWS - PUBSQL01 - FileValidator-PAOMI" "Buen Dia, por favor revisar Error generado en Uproc BATA_00016 (FileValidator-PAOMI) en Dollar Universe Nodo PUBSQL01, Gracias Infraestructura Unidad Digital"</StartArguments>
+  </PropertyGroup>
+</Project>

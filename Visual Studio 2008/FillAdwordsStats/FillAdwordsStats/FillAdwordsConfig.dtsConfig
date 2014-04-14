@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<DTSConfiguration>
+  <DTSConfigurationHeading>
+    <DTSConfigurationFileInfo GeneratedBy="CARVAJAL\JulZapCa" GeneratedFromPackageName="FillAdwordsStats" GeneratedFromPackageID="{A29F1452-43EF-4CE9-BED5-9F3ECFE73A8C}" GeneratedDate="16/03/2012 10:17:46 a.m."/>
+  </DTSConfigurationHeading>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[BDFuenteDatosAdwords].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>Data Source=pubsql;User ID=bdadwords;Password=Colombia2011;Initial Catalog=BDAdwords;Provider=SQLNCLI10.1;Auto Translate=False;</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[DBStatsCollector].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>Data Source=pubevlmia553;Initial Catalog=StatsCollector;User ID=CSConsultasCol;Password=St1tsCol.!;Provider=SQLNCLI10.1;Persist Security Info=True;Auto Translate=False;</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::LogFilePath].Properties[Value]" ValueType="String">
+    <ConfiguredValue>X:\Programas\Cargue_Adwords\log\DollarInfo.txt</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\INSERTAR DATOS DE CAMPAÑA.Variables[User::sqlCampaignSource].Properties[EvaluateAsExpression]" ValueType="Boolean">
+    <ConfiguredValue>-1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\INSERTAR DATOS DE CAMPAÑA.Variables[User::sqlCampaignSource].Properties[Expression]" ValueType="String">
+    <ConfiguredValue>
+      " Select fecha as [Date],Hora as [Hour],Clicks as Clicks,Imps as Imps,convert(varchar(200),campaignid) as Id
+      ,replace(replace(replace(ctr,'%',''),'.',''),',','.') as ctr,replace(idcliente,'-','') as CustomerId,idpais as idcountry,1 as ReportId,convert(varchar(20),campStatus) as Campaignstatus,
+      idEmpresa as CompanyId, cast(replace(replace(Cost,'.',''),',','.') as float) as Cost,
+      dbo.Campana.Nombre as NombreCampaña
+      from TempCampanaCarguebyHour  
+      Left join dbo.Campana On TempCampanaCarguebyHour.campaignid = dbo.Campana.idCampanaGoo where fecha= convert(date,GetDate()-1)"
+    </ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\INSERTAR DATOS DE KEYWORDS.Variables[User::sqlKeywordSource].Properties[EvaluateAsExpression]" ValueType="Boolean">
+    <ConfiguredValue>-1</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package\INSERTAR DATOS DE KEYWORDS.Variables[User::sqlKeywordSource].Properties[Expression]" ValueType="String">
+    <ConfiguredValue>
+      "Select idCampanaGoo as CampaignId,fecha as [Date]
+      ,Null as AdGroupId,convert(varchar(100),adGroup) as AdGroup,null as KeywordId
+      ,convert(varchar(150),texto) as Keyword,imps as Imps,clicks as Clicks,replace(ctr,'%','') as Ctr
+      ,replace(conv,'%','') as Conv,replace(convrate,'%','') as ConvRate,Convert(varchar(100),clientName) as CustomerName
+      ,idPais as idcountry, convert(varchar(50),matchType) as kwType,123 as ReportId
+      ,Convert(varchar(50),keywordState) as Keywordstatus
+      from TempKeywordcargue with(nolock) where fecha=Convert(date,getdate()-1)"
+    </ConfiguredValue>
+  </Configuration>
+</DTSConfiguration>

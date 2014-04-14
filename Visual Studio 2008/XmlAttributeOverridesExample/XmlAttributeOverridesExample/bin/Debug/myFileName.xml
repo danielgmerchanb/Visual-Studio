@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CityGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CityGroupIds>
+    <CityGroupIds>
+      <Value>Pepito1</Value>
+    </CityGroupIds>
+    <CityGroupIds>
+      <Value>Pepito2</Value>
+    </CityGroupIds>
+    <CityGroupIds>
+      <Value>Pepito3</Value>
+    </CityGroupIds>
+    <CityGroupIds>
+      <Value>Pepito4</Value>
+    </CityGroupIds>
+  </CityGroupIds>
+</CityGroup>

@@ -1,0 +1,283 @@
+<?xml version="1.0" standalone="yes"?>
+<report>
+  <table>
+    <columns>
+      <column name="date">
+      </column>
+      <column name="hour">
+      </column>
+      <column name="customerid">
+      </column>
+      <column name="timezone">
+      </column>
+      <column name="campaignid">
+      </column>
+      <column name="budget">
+      </column>
+      <column name="campStatus">
+      </column>
+      <column name="imps">
+      </column>
+      <column name="clicks">
+      </column>
+      <column name="ctr">
+      </column>
+      <column name="cpc">
+      </column>
+      <column name="cpm">
+      </column>
+      <column name="cost">
+      </column>
+    </columns>
+    <rows>
+      <row date="2012-02-27" hour="0" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="16" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="1" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="5" clicks="1" ctr="0.2" cpc="53000000" cpm="10600000000" cost="53000000">
+      </row>
+      <row date="2012-02-27" hour="6" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="1" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="7" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="2" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="8" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="24" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="9" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="59" clicks="4" ctr="0.06779661016949153" cpc="277250000" cpm="18796610169" cost="1109000000">
+      </row>
+      <row date="2012-02-27" hour="10" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="37" clicks="1" ctr="0.02702702702702703" cpc="375000000" cpm="10135135135" cost="375000000">
+      </row>
+      <row date="2012-02-27" hour="11" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="22" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="12" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="17" clicks="1" ctr="0.058823529411764705" cpc="209000000" cpm="12294117647" cost="209000000">
+      </row>
+      <row date="2012-02-27" hour="13" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="14" clicks="1" ctr="0.07142857142857142" cpc="370000000" cpm="26428571428" cost="370000000">
+      </row>
+      <row date="2012-02-27" hour="14" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="28" clicks="1" ctr="0.03571428571428571" cpc="180000000" cpm="6428571428" cost="180000000">
+      </row>
+      <row date="2012-02-27" hour="15" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="8" clicks="1" ctr="0.125" cpc="350000000" cpm="43750000000" cost="350000000">
+      </row>
+      <row date="2012-02-27" hour="19" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="7" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="20" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="13" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="21" customerid="8284808376" timezone="(GMT-05:00) Guayaquil" campaignid="75655490" budget="2500000000" campStatus="Active" imps="11" clicks="1" ctr="0.09090909090909091" cpc="350000000" cpm="31818181818" cost="350000000">
+      </row>
+      <row date="2012-02-27" hour="8" customerid="2057110636" timezone="(GMT-05:00) Bogota" campaignid="75037347" budget="1000000" campStatus="Active" imps="2" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="9" customerid="2057110636" timezone="(GMT-05:00) Bogota" campaignid="75037347" budget="1000000" campStatus="Active" imps="16" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="10" customerid="2057110636" timezone="(GMT-05:00) Bogota" campaignid="75037347" budget="1000000" campStatus="Active" imps="28" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="11" customerid="2057110636" timezone="(GMT-05:00) Bogota" campaignid="75037347" budget="1000000" campStatus="Active" imps="177" clicks="8" ctr="0.04519774011299435" cpc="98750" cpm="4463276" cost="790000">
+      </row>
+      <row date="2012-02-27" hour="12" customerid="2057110636" timezone="(GMT-05:00) Bogota" campaignid="75037347" budget="1000000" campStatus="Active" imps="20" clicks="1" ctr="0.05" cpc="190000" cpm="9500000" cost="190000">
+      </row>
+      <row date="2012-02-27" hour="22" customerid="2057110636" timezone="(GMT-05:00) Bogota" campaignid="75037347" budget="1000000" campStatus="Active" imps="17" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="7" customerid="5071212180" timezone="(GMT-05:00) Guayaquil" campaignid="66351649" budget="1200000000" campStatus="Active" imps="2" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="8" customerid="5071212180" timezone="(GMT-05:00) Guayaquil" campaignid="66351649" budget="1200000000" campStatus="Active" imps="105" clicks="3" ctr="0.02857142857142857" cpc="207333333" cpm="5923809523" cost="622000000">
+      </row>
+      <row date="2012-02-27" hour="9" customerid="5071212180" timezone="(GMT-05:00) Guayaquil" campaignid="66351649" budget="1200000000" campStatus="Active" imps="45" clicks="1" ctr="0.022222222222222223" cpc="428000000" cpm="9511111111" cost="428000000">
+      </row>
+      <row date="2012-02-27" hour="0" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="12" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="1" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="10" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="2" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="2" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="5" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="3" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="7" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="3" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="8" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="26" clicks="1" ctr="0.038461538461538464" cpc="140000" cpm="5384615" cost="140000">
+      </row>
+      <row date="2012-02-27" hour="9" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="82" clicks="3" ctr="0.036585365853658534" cpc="163333" cpm="5975609" cost="490000">
+      </row>
+      <row date="2012-02-27" hour="10" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="92" clicks="2" ctr="0.021739130434782608" cpc="135000" cpm="2934782" cost="270000">
+      </row>
+      <row date="2012-02-27" hour="11" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="122" clicks="3" ctr="0.02459016393442623" cpc="160000" cpm="3934426" cost="480000">
+      </row>
+      <row date="2012-02-27" hour="12" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="109" clicks="2" ctr="0.01834862385321101" cpc="95000" cpm="1743119" cost="190000">
+      </row>
+      <row date="2012-02-27" hour="13" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="78" clicks="2" ctr="0.02564102564102564" cpc="160000" cpm="4102564" cost="320000">
+      </row>
+      <row date="2012-02-27" hour="14" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="108" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="15" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="113" clicks="2" ctr="0.017699115044247787" cpc="90000" cpm="1592920" cost="180000">
+      </row>
+      <row date="2012-02-27" hour="16" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="92" clicks="1" ctr="0.010869565217391304" cpc="150000" cpm="1630434" cost="150000">
+      </row>
+      <row date="2012-02-27" hour="17" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="73" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="18" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="80" clicks="1" ctr="0.0125" cpc="140000" cpm="1750000" cost="140000">
+      </row>
+      <row date="2012-02-27" hour="19" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="97" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="20" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="82" clicks="2" ctr="0.024390243902439025" cpc="70000" cpm="1707317" cost="140000">
+      </row>
+      <row date="2012-02-27" hour="21" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="90" clicks="1" ctr="0.011111111111111112" cpc="150000" cpm="1666666" cost="150000">
+      </row>
+      <row date="2012-02-27" hour="22" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="39" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="23" customerid="5988838732" timezone="(GMT-05:00) Guayaquil" campaignid="66489972" budget="10000000" campStatus="Active" imps="18" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="18" customerid="9088738118" timezone="(GMT-05:00) Bogota" campaignid="72208710" budget="1000000" campStatus="Active" imps="5" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="19" customerid="9088738118" timezone="(GMT-05:00) Bogota" campaignid="72208710" budget="1000000" campStatus="Active" imps="2" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="20" customerid="9088738118" timezone="(GMT-05:00) Bogota" campaignid="72208710" budget="1000000" campStatus="Active" imps="9" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="21" customerid="9088738118" timezone="(GMT-05:00) Bogota" campaignid="72208710" budget="1000000" campStatus="Active" imps="8" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="22" customerid="9088738118" timezone="(GMT-05:00) Bogota" campaignid="72208710" budget="1000000" campStatus="Active" imps="8" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="23" customerid="9088738118" timezone="(GMT-05:00) Bogota" campaignid="72208710" budget="1000000" campStatus="Active" imps="3" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="0" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="2" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="8" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="4" clicks="2" ctr="0.5" cpc="45000" cpm="22500000" cost="90000">
+      </row>
+      <row date="2012-02-27" hour="9" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="3" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="10" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="10" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="11" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="11" clicks="1" ctr="0.09090909090909091" cpc="150000" cpm="13636363" cost="150000">
+      </row>
+      <row date="2012-02-27" hour="12" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="4" clicks="1" ctr="0.25" cpc="80000" cpm="20000000" cost="80000">
+      </row>
+      <row date="2012-02-27" hour="13" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="12" clicks="2" ctr="0.16666666666666666" cpc="60000" cpm="10000000" cost="120000">
+      </row>
+      <row date="2012-02-27" hour="14" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="17" clicks="3" ctr="0.17647058823529413" cpc="93333" cpm="16470588" cost="280000">
+      </row>
+      <row date="2012-02-27" hour="15" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="26" clicks="4" ctr="0.15384615384615385" cpc="90000" cpm="13846153" cost="360000">
+      </row>
+      <row date="2012-02-27" hour="16" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="4" clicks="1" ctr="0.25" cpc="30000" cpm="7500000" cost="30000">
+      </row>
+      <row date="2012-02-27" hour="18" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="1" clicks="1" ctr="1.0" cpc="50000" cpm="50000000" cost="50000">
+      </row>
+      <row date="2012-02-27" hour="21" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="10" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="22" customerid="1451203160" timezone="(GMT-05:00) Bogota" campaignid="76958929" budget="1000000" campStatus="Active" imps="8" clicks="1" ctr="0.125" cpc="30000" cpm="3750000" cost="30000">
+      </row>
+      <row date="2012-02-27" hour="8" customerid="1288236123" timezone="(GMT-05:00) Guayaquil" campaignid="34318748" budget="2150000000" campStatus="Active" imps="3" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="9" customerid="1288236123" timezone="(GMT-05:00) Guayaquil" campaignid="34318748" budget="2150000000" campStatus="Active" imps="8" clicks="1" ctr="0.125" cpc="179000000" cpm="22375000000" cost="179000000">
+      </row>
+      <row date="2012-02-27" hour="10" customerid="1288236123" timezone="(GMT-05:00) Guayaquil" campaignid="34318748" budget="2150000000" campStatus="Active" imps="7" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="11" customerid="1288236123" timezone="(GMT-05:00) Guayaquil" campaignid="34318748" budget="2150000000" campStatus="Active" imps="16" clicks="3" ctr="0.1875" cpc="299000000" cpm="56062500000" cost="897000000">
+      </row>
+      <row date="2012-02-27" hour="12" customerid="1288236123" timezone="(GMT-05:00) Guayaquil" campaignid="34318748" budget="2150000000" campStatus="Active" imps="8" clicks="1" ctr="0.125" cpc="428000000" cpm="53500000000" cost="428000000">
+      </row>
+      <row date="2012-02-27" hour="13" customerid="1288236123" timezone="(GMT-05:00) Guayaquil" campaignid="34318748" budget="2150000000" campStatus="Active" imps="5" clicks="1" ctr="0.2" cpc="334000000" cpm="66800000000" cost="334000000">
+      </row>
+      <row date="2012-02-27" hour="19" customerid="1288236123" timezone="(GMT-05:00) Guayaquil" campaignid="34318748" budget="2150000000" campStatus="Active" imps="11" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="20" customerid="1288236123" timezone="(GMT-05:00) Guayaquil" campaignid="34318748" budget="2150000000" campStatus="Active" imps="5" clicks="1" ctr="0.2" cpc="358000000" cpm="71600000000" cost="358000000">
+      </row>
+      <row date="2012-02-27" hour="0" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="2" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="1" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="6" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="6" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="3" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="7" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="5" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="8" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="5" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="9" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="31" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="10" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="41" clicks="2" ctr="0.04878048780487805" cpc="295000" cpm="14390243" cost="590000">
+      </row>
+      <row date="2012-02-27" hour="11" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="31" clicks="2" ctr="0.06451612903225806" cpc="200000" cpm="12903225" cost="400000">
+      </row>
+      <row date="2012-02-27" hour="12" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="48" clicks="1" ctr="0.020833333333333332" cpc="160000" cpm="3333333" cost="160000">
+      </row>
+      <row date="2012-02-27" hour="13" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="17" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="14" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="27" clicks="2" ctr="0.07407407407407407" cpc="290000" cpm="21481481" cost="580000">
+      </row>
+      <row date="2012-02-27" hour="15" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="28" clicks="3" ctr="0.10714285714285714" cpc="306666" cpm="32857142" cost="920000">
+      </row>
+      <row date="2012-02-27" hour="16" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="34" clicks="1" ctr="0.029411764705882353" cpc="390000" cpm="11470588" cost="390000">
+      </row>
+      <row date="2012-02-27" hour="17" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="34" clicks="1" ctr="0.029411764705882353" cpc="400000" cpm="11764705" cost="400000">
+      </row>
+      <row date="2012-02-27" hour="18" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="9" clicks="1" ctr="0.1111111111111111" cpc="170000" cpm="18888888" cost="170000">
+      </row>
+      <row date="2012-02-27" hour="19" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="34" clicks="2" ctr="0.058823529411764705" cpc="175000" cpm="10294117" cost="350000">
+      </row>
+      <row date="2012-02-27" hour="20" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="33" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="21" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="33" clicks="1" ctr="0.030303030303030304" cpc="190000" cpm="5757575" cost="190000">
+      </row>
+      <row date="2012-02-27" hour="22" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="15" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="23" customerid="1921574472" timezone="(GMT-05:00) Guayaquil" campaignid="56612142" budget="10000000" campStatus="Active" imps="9" clicks="2" ctr="0.2222222222222222" cpc="100000" cpm="22222222" cost="200000">
+      </row>
+      <row date="2012-02-27" hour="6" customerid="9913740759" timezone="(GMT-05:00) Bogota" campaignid="62914104" budget="1300000" campStatus="Active" imps="9" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="7" customerid="9913740759" timezone="(GMT-05:00) Bogota" campaignid="62914104" budget="1300000" campStatus="Active" imps="19" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="8" customerid="9913740759" timezone="(GMT-05:00) Bogota" campaignid="62914104" budget="1300000" campStatus="Active" imps="71" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0">
+      </row>
+      <row date="2012-02-27" hour="9" customerid="9913740759" timezone="(GMT-05:00) Bogota" campaignid="62914104" budget="1300000" campStatus="Active" imps="99" clicks="1" ctr="0.010101010101010102" cpc="150000" cpm="1515151" cost="150000">
+      </row>
+      <row date="2012-02-27" hour="10" customerid="9913740759" timezone="(GMT-05:00) Bogota" campaignid="62914104" budget="1300000" campStatus="Active" imps="183" clicks="1" ctr="0.00546448087431694" cpc="130000" cpm="710382" cost="130000">
+      </row>
+      <row date="2012-02-27" hour="11" customerid="9913740759" timezone="(GMT-05:00) Bogota" campaignid="62914104" budget="1300000" campStatus="Active" imps="366" clicks="3" ctr="0.00819672131147541" cpc="163333" cpm="1338797" cost="490000">
+      </row>
+      <row date="2012-02-27" hour="12" customerid="9913740759" timezone="(GMT-05:00) Bogota" campaignid="62914104" budget="1300000" campStatus="Active" imps="270" clicks="4" ctr="0.014814814814814815" cpc="107500" cpm="1592592" cost="430000">
+      </row>
+      <row date="2012-02-27" hour="13" customerid="9913740759" timezone="(GMT-05:00) Bogota" campaignid="62914104" budget="1300000" campStatus="Active" imps="14" clicks="2" ctr="0.14285714285714285" cpc="170000" cpm="24285714" cost="340000">
+      </row>
+    </rows>
+  </table>
+  <totals>
+    <subtotal imps="32" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0" name="2012-02-27 0">
+    </subtotal>
+    <subtotal imps="21" clicks="1" ctr="0.047619047619047616" cpc="53000000" cpm="2523809523" cost="53000000" name="2012-02-27 1">
+    </subtotal>
+    <subtotal imps="398" clicks="6" ctr="0.01507537688442211" cpc="62665000" cpm="944698492" cost="375990000" name="2012-02-27 10">
+    </subtotal>
+    <subtotal imps="745" clicks="20" ctr="0.026845637583892617" cpc="44965500" cpm="1207127516" cost="899310000" name="2012-02-27 11">
+    </subtotal>
+    <subtotal imps="476" clicks="11" ctr="0.023109243697478993" cpc="58004545" cpm="1340441176" cost="638050000" name="2012-02-27 12">
+    </subtotal>
+    <subtotal imps="140" clicks="8" ctr="0.05714285714285714" cpc="88097500" cpm="5034142857" cost="704780000" name="2012-02-27 13">
+    </subtotal>
+    <subtotal imps="180" clicks="6" ctr="0.03333333333333333" cpc="30143333" cpm="1004777777" cost="180860000" name="2012-02-27 14">
+    </subtotal>
+    <subtotal imps="175" clicks="10" ctr="0.05714285714285714" cpc="35146000" cpm="2008342857" cost="351460000" name="2012-02-27 15">
+    </subtotal>
+    <subtotal imps="130" clicks="3" ctr="0.023076923076923078" cpc="190000" cpm="4384615" cost="570000" name="2012-02-27 16">
+    </subtotal>
+    <subtotal imps="107" clicks="1" ctr="0.009345794392523364" cpc="400000" cpm="3738317" cost="400000" name="2012-02-27 17">
+    </subtotal>
+    <subtotal imps="95" clicks="3" ctr="0.031578947368421054" cpc="120000" cpm="3789473" cost="360000" name="2012-02-27 18">
+    </subtotal>
+    <subtotal imps="151" clicks="2" ctr="0.013245033112582781" cpc="175000" cpm="2317880" cost="350000" name="2012-02-27 19">
+    </subtotal>
+    <subtotal imps="2" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0" name="2012-02-27 2">
+    </subtotal>
+    <subtotal imps="142" clicks="3" ctr="0.02112676056338028" cpc="119380000" cpm="2522112676" cost="358140000" name="2012-02-27 20">
+    </subtotal>
+    <subtotal imps="152" clicks="3" ctr="0.019736842105263157" cpc="116780000" cpm="2304868421" cost="350340000" name="2012-02-27 21">
+    </subtotal>
+    <subtotal imps="87" clicks="1" ctr="0.011494252873563218" cpc="30000" cpm="344827" cost="30000" name="2012-02-27 22">
+    </subtotal>
+    <subtotal imps="30" clicks="2" ctr="0.06666666666666667" cpc="100000" cpm="6666666" cost="200000" name="2012-02-27 23">
+    </subtotal>
+    <subtotal imps="3" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0" name="2012-02-27 5">
+    </subtotal>
+    <subtotal imps="13" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0" name="2012-02-27 6">
+    </subtotal>
+    <subtotal imps="31" clicks="0" ctr="0.0" cpc="0" cpm="0" cost="0" name="2012-02-27 7">
+    </subtotal>
+    <subtotal imps="240" clicks="6" ctr="0.025" cpc="103705000" cpm="2592625000" cost="622230000" name="2012-02-27 8">
+    </subtotal>
+    <subtotal imps="343" clicks="10" ctr="0.029154518950437316" cpc="171664000" cpm="5004781341" cost="1716640000" name="2012-02-27 9">
+    </subtotal>
+    <grandtotal imps="3693" clicks="96" ctr="0.025995125913891144" cpc="65132395" cpm="1693124830" cost="6252710000">
+    </grandtotal>
+  </totals>
+</report>

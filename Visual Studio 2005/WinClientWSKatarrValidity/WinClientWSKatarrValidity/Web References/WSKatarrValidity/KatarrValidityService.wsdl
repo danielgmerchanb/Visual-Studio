@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ActivateProduct">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCompanyId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sProductId" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iSystemId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActivateProductResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ActivateProductResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActivateItem">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sContractId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sReferenceId" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMovenment" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iSystemId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActivateItemResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ActivateProductSoapIn">
+    <wsdl:part name="parameters" element="tns:ActivateProduct" />
+  </wsdl:message>
+  <wsdl:message name="ActivateProductSoapOut">
+    <wsdl:part name="parameters" element="tns:ActivateProductResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActivateItemSoapIn">
+    <wsdl:part name="parameters" element="tns:ActivateItem" />
+  </wsdl:message>
+  <wsdl:message name="ActivateItemSoapOut">
+    <wsdl:part name="parameters" element="tns:ActivateItemResponse" />
+  </wsdl:message>
+  <wsdl:portType name="KatarrValidityServiceSoap">
+    <wsdl:operation name="ActivateProduct">
+      <wsdl:input message="tns:ActivateProductSoapIn" />
+      <wsdl:output message="tns:ActivateProductSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActivateItem">
+      <wsdl:input message="tns:ActivateItemSoapIn" />
+      <wsdl:output message="tns:ActivateItemSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="KatarrValidityServiceSoap" type="tns:KatarrValidityServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ActivateProduct">
+      <soap:operation soapAction="http://tempuri.org/ActivateProduct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActivateItem">
+      <soap:operation soapAction="http://tempuri.org/ActivateItem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="KatarrValidityServiceSoap12" type="tns:KatarrValidityServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ActivateProduct">
+      <soap12:operation soapAction="http://tempuri.org/ActivateProduct" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActivateItem">
+      <soap12:operation soapAction="http://tempuri.org/ActivateItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="KatarrValidityService">
+    <wsdl:port name="KatarrValidityServiceSoap" binding="tns:KatarrValidityServiceSoap">
+      <soap:address location="http://publicar.publicar.com/WSKatarrValidity/KatarrValidityService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="KatarrValidityServiceSoap12" binding="tns:KatarrValidityServiceSoap12">
+      <soap12:address location="http://publicar.publicar.com/WSKatarrValidity/KatarrValidityService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

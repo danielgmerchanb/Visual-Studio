@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="report">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="table">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="columns">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="column">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="name" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="rows">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="row">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="date" type="xs:date" use="optional" />
+                            <xs:attribute name="acctname" type="xs:string" use="optional" />
+                            <xs:attribute name="campaignid" type="xs:unsignedLong" use="optional" />
+                            <xs:attribute name="adgroupid" type="xs:unsignedLong" use="optional" />
+                            <xs:attribute name="adgroup" type="xs:string" use="optional" />
+                            <xs:attribute name="keywordid" type="xs:unsignedLong" use="optional" />
+                            <xs:attribute name="keyword" type="xs:string" use="optional" />
+                            <xs:attribute name="kwType" type="xs:string" use="optional" />
+                            <xs:attribute name="kwStatus" type="xs:string" use="optional" />
+                            <xs:attribute name="budget" type="xs:string" use="optional" />
+                            <xs:attribute name="imps" type="xs:unsignedInt" use="optional" />
+                            <xs:attribute name="clicks" type="xs:unsignedInt" use="optional" />
+                            <xs:attribute name="ctr" type="xs:float" use="optional" />
+                            <xs:attribute name="cost" type="xs:unsignedLong" use="optional" />
+                            <xs:attribute name="pos" type="xs:decimal" use="optional" />
+                            <xs:attribute name="conv" type="xs:unsignedInt" use="optional" />
+                            <xs:attribute name="convRate" type="xs:decimal" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="totals">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="grandtotal">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="imps" type="xs:unsignedInt" use="optional" />
+                      <xs:attribute name="clicks" type="xs:unsignedShort" use="optional" />
+                      <xs:attribute name="ctr" type="xs:decimal" use="optional" />
+                      <xs:attribute name="cost" type="xs:unsignedLong" use="optional" />
+                      <xs:attribute name="pos" type="xs:decimal" use="optional" />
+                      <xs:attribute name="conv" type="xs:unsignedByte" use="optional" />
+                      <xs:attribute name="convRate" type="xs:decimal" use="optional" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

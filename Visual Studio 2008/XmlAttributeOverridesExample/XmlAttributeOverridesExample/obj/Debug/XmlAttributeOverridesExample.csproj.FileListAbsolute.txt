@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2008\Projects\XmlAttributeOverridesExample\XmlAttributeOverridesExample\bin\Debug\XmlAttributeOverridesExample.exe
+D:\Mis Documentos\Visual Studio 2008\Projects\XmlAttributeOverridesExample\XmlAttributeOverridesExample\bin\Debug\XmlAttributeOverridesExample.pdb
+D:\Mis Documentos\Visual Studio 2008\Projects\XmlAttributeOverridesExample\XmlAttributeOverridesExample\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2008\Projects\XmlAttributeOverridesExample\XmlAttributeOverridesExample\obj\Debug\XmlAttributeOverridesExample.exe
+D:\Mis Documentos\Visual Studio 2008\Projects\XmlAttributeOverridesExample\XmlAttributeOverridesExample\obj\Debug\XmlAttributeOverridesExample.pdb

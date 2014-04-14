@@ -1,0 +1,525 @@
+<?xml version="1.0" standalone="yes"?>
+<report>
+  <table>
+    <columns>
+      <column name="date">
+      </column>
+      <column name="acctname">
+      </column>
+      <column name="campaignid">
+      </column>
+      <column name="adgroupid">
+      </column>
+      <column name="adgroup">
+      </column>
+      <column name="keywordid">
+      </column>
+      <column name="keyword">
+      </column>
+      <column name="kwType">
+      </column>
+      <column name="kwStatus">
+      </column>
+      <column name="budget">
+      </column>
+      <column name="imps">
+      </column>
+      <column name="clicks">
+      </column>
+      <column name="ctr">
+      </column>
+      <column name="cost">
+      </column>
+      <column name="pos">
+      </column>
+      <column name="conv">
+      </column>
+      <column name="convRate">
+      </column>
+    </columns>
+    <rows>
+      <row date="2012-02-27" acctname="ANENI S.A. DE C.V._CK900" campaignid="88519598" adgroupid="2741186558" adgroup="SPA" keywordid="19910971" keyword="Spa" kwType="Broad" kwStatus="Active" budget="1000000" imps="86" clicks="1" ctr="0.011627906976744186" cost="220000" pos="1.5697674419" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ANENI S.A. DE C.V._CK900" campaignid="88519598" adgroupid="2741186558" adgroup="SPA" keywordid="26896052" keyword="Dietas" kwType="Broad" kwStatus="Active" budget="1000000" imps="37" clicks="1" ctr="0.02702702702702703" cost="50000" pos="2.1351351351" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ANENI S.A. DE C.V._CK900" campaignid="88519598" adgroupid="2741186558" adgroup="SPA" keywordid="109258405" keyword="Peinados" kwType="Broad" kwStatus="Active" budget="1000000" imps="24" clicks="0" ctr="0.0" cost="0" pos="1.2916666667" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ANENI S.A. DE C.V._CK900" campaignid="88519598" adgroupid="2741186558" adgroup="SPA" keywordid="350234128" keyword="Faciales" kwType="Broad" kwStatus="Active" budget="1000000" imps="1" clicks="0" ctr="0.0" cost="0" pos="2.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ANENI S.A. DE C.V._CK900" campaignid="88519598" adgroupid="2741186558" adgroup="SPA" keywordid="1062556211" keyword="Tratamientos Faciales" kwType="Broad" kwStatus="Active" budget="1000000" imps="3" clicks="1" ctr="0.3333333333333333" cost="150000" pos="1.6666666667" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ANENI S.A. DE C.V._CK900" campaignid="88519598" adgroupid="2741186558" adgroup="SPA" keywordid="1596255157" keyword="Salon de Belleza" kwType="Broad" kwStatus="Active" budget="1000000" imps="14" clicks="3" ctr="0.21428571428571427" cost="240000" pos="1.2142857143" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ANENI S.A. DE C.V._CK900" campaignid="88519598" adgroupid="2770000238" adgroup="DIETAS" keywordid="4175447176" keyword="Reduccion de Peso" kwType="Broad" kwStatus="Active" budget="1000000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ANENI S.A. DE C.V._CK900" campaignid="88519598" adgroupid="2770005398" adgroup="CORTES DE CABELLO" keywordid="2329667199" keyword="Cortes de Cabello" kwType="Broad" kwStatus="Active" budget="1000000" imps="12" clicks="1" ctr="0.08333333333333333" cost="170000" pos="1.8333333333" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ANENI S.A. DE C.V._CK900" campaignid="88519598" adgroupid="2770005398" adgroup="CORTES DE CABELLO" keywordid="13775748205" keyword="Corte de Cabello" kwType="Broad" kwStatus="Active" budget="1000000" imps="4" clicks="0" ctr="0.0" cost="0" pos="1.75" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="12348103" keyword="Monitores" kwType="Broad" kwStatus="Active" budget="2470000" imps="200" clicks="4" ctr="0.02" cost="630000" pos="2.015" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="30547536" keyword="Transductores" kwType="Broad" kwStatus="Active" budget="2470000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.5" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="143428319" keyword="Ultrasonidos" kwType="Broad" kwStatus="Active" budget="2470000" imps="13" clicks="1" ctr="0.07692307692307693" cost="100000" pos="1.8461538462" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="412969423" keyword="Procesadoras" kwType="Broad" kwStatus="Active" budget="2470000" imps="11" clicks="0" ctr="0.0" cost="0" pos="1.1818181818" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="673296148" keyword="Desfibriladores" kwType="Broad" kwStatus="Active" budget="2470000" imps="8" clicks="1" ctr="0.125" cost="20000" pos="2.875" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="969740271" keyword="Electrocardiografos" kwType="Broad" kwStatus="Active" budget="2470000" imps="15" clicks="1" ctr="0.06666666666666667" cost="190000" pos="1.2" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="969804141" keyword="equipos de Rayos X" kwType="Broad" kwStatus="Active" budget="2470000" imps="7" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="4231066271" keyword="Angiografos" kwType="Broad" kwStatus="Active" budget="2470000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="40922868933" keyword="equipos Medicos" kwType="Broad" kwStatus="Active" budget="2470000" imps="5" clicks="0" ctr="0.0" cost="0" pos="2.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="40922869053" keyword="Tubos de Rayos x" kwType="Broad" kwStatus="Active" budget="2470000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="40922869413" keyword="Salas de Operaciones" kwType="Broad" kwStatus="Active" budget="2470000" imps="7" clicks="2" ctr="0.2857142857142857" cost="340000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BIOMEDICA LEMUS, S.A. DE C.V." campaignid="117481533" adgroupid="4802727573" adgroup="Biomedica" keywordid="40923205053" keyword="Equipos medicos el salvador" kwType="Broad" kwStatus="Active" budget="2470000" imps="4" clicks="1" ctr="0.25" cost="80000" pos="1.25" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1765988546" adgroup="NUTRIOLOGO" keywordid="19534253" keyword="Dieta" kwType="Broad" kwStatus="Active" budget="1500000" imps="52" clicks="0" ctr="0.0" cost="0" pos="1.5769230769" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1765988546" adgroup="NUTRIOLOGO" keywordid="26896052" keyword="Dietas" kwType="Broad" kwStatus="Active" budget="1500000" imps="88" clicks="0" ctr="0.0" cost="0" pos="1.6136363636" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771360586" adgroup="DESINTOXICACION" keywordid="10270262" keyword="Colitis" kwType="Broad" kwStatus="Deleted" budget="1500000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771360586" adgroup="DESINTOXICACION" keywordid="32186061146" keyword="Tratamiento para Colitis" kwType="Broad" kwStatus="Active" budget="1500000" imps="7" clicks="1" ctr="0.14285714285714285" cost="320000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771360586" adgroup="DESINTOXICACION" keywordid="32186422826" keyword="Tratamiento para el Estreñimiento" kwType="Broad" kwStatus="Active" budget="1500000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771360826" adgroup="DIABETES" keywordid="16490181" keyword="Diabetes" kwType="Broad" kwStatus="Deleted" budget="1500000" imps="4" clicks="0" ctr="0.0" cost="0" pos="2.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771360826" adgroup="DIABETES" keywordid="2340504556" keyword="Tratamiento para la Diabetes" kwType="Broad" kwStatus="Active" budget="1500000" imps="7" clicks="0" ctr="0.0" cost="0" pos="1.7142857143" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771361066" adgroup="COLESTEROL" keywordid="18195411" keyword="Anorexia" kwType="Broad" kwStatus="Deleted" budget="1500000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771361066" adgroup="COLESTEROL" keywordid="32185294346" keyword="Tratamiento para la Anorexia" kwType="Broad" kwStatus="Active" budget="1500000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771361066" adgroup="COLESTEROL" keywordid="32185414706" keyword="Tratamiento para los Trigliceridos" kwType="Broad" kwStatus="Active" budget="1500000" imps="4" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771361066" adgroup="COLESTEROL" keywordid="32186638826" keyword="Tratamiento para la Bulimia" kwType="Broad" kwStatus="Active" budget="1500000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771361306" adgroup="MESOTERAPIA" keywordid="94874931" keyword="Mesoterapia" kwType="Broad" kwStatus="Active" budget="1500000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771361306" adgroup="MESOTERAPIA" keywordid="257616823" keyword="Hipotiroidismo" kwType="Broad" kwStatus="Active" budget="1500000" imps="3" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771361306" adgroup="MESOTERAPIA" keywordid="32186470826" keyword="Tratamiento para Hipertiroidismo" kwType="Broad" kwStatus="Active" budget="1500000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771361786" adgroup="ALIMENTACION" keywordid="11042552" keyword="Alimentacion" kwType="Broad" kwStatus="Deleted" budget="1500000" imps="17" clicks="2" ctr="0.11764705882352941" cost="720000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DE NUTRICIÓN INTEGRAL DRA FRIDA BICHARA" campaignid="69094106" adgroupid="1771361786" adgroup="ALIMENTACION" keywordid="32186638946" keyword="Alimentacion en El Salvador" kwType="Broad" kwStatus="Active" budget="1500000" imps="38" clicks="2" ctr="0.05263157894736842" cost="280000" pos="1.5" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Villa Terra" campaignid="57496436" adgroupid="1505620586" adgroup="Hotel Villa Terra" keywordid="10003340" keyword="hotels" kwType="Broad" kwStatus="Active" budget="1500000" imps="11" clicks="0" ctr="0.0" cost="0" pos="5.4545454545" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Villa Terra" campaignid="57496436" adgroupid="1505620586" adgroup="Hotel Villa Terra" keywordid="44820601" keyword="Salvador Hotels" kwType="Broad" kwStatus="Active" budget="1500000" imps="1" clicks="0" ctr="0.0" cost="0" pos="5.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Villa Terra" campaignid="57496436" adgroupid="1505620586" adgroup="Hotel Villa Terra" keywordid="931278633" keyword="Hoteles Salvador" kwType="Broad" kwStatus="Active" budget="1500000" imps="56" clicks="0" ctr="0.0" cost="0" pos="5.6607142857" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Villa Terra" campaignid="57496436" adgroupid="1505620586" adgroup="Hotel Villa Terra" keywordid="17782459106" keyword="Hoteles En Salvador" kwType="Broad" kwStatus="Active" budget="1500000" imps="119" clicks="3" ctr="0.025210084033613446" cost="990000" pos="5.2100840336" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Villa Terra" campaignid="57496436" adgroupid="1505620586" adgroup="Hotel Villa Terra" keywordid="17908568906" keyword="hoteles economicos Salvador" kwType="Broad" kwStatus="Active" budget="1500000" imps="11" clicks="0" ctr="0.0" cost="0" pos="3.3636363636" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Villa Terra" campaignid="57496436" adgroupid="1505620586" adgroup="Hotel Villa Terra" keywordid="17908569026" keyword="Hoteles San Salvador" kwType="Broad" kwStatus="Active" budget="1500000" imps="109" clicks="4" ctr="0.03669724770642202" cost="840000" pos="3.5688073394" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="13441422" keyword="Agencia de publicidad" kwType="Broad" kwStatus="Active" budget="940000" imps="49" clicks="0" ctr="0.0" cost="0" pos="2.9387755102" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="128210481" keyword="Radio Publicidad" kwType="Broad" kwStatus="Active" budget="940000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.5" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="172587185" keyword="Exitos" kwType="Broad" kwStatus="Active" budget="940000" imps="18" clicks="0" ctr="0.0" cost="0" pos="1.2777777778" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="6215736752" keyword="Musica en El Salvador" kwType="Broad" kwStatus="Active" budget="940000" imps="56" clicks="2" ctr="0.03571428571428571" cost="400000" pos="1.6428571429" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="27826291121" keyword="Publicidad en El Salvador" kwType="Broad" kwStatus="Active" budget="940000" imps="48" clicks="0" ctr="0.0" cost="0" pos="3.3125" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="44276973236" keyword="Super promociones" kwType="Broad" kwStatus="Active" budget="940000" imps="20" clicks="0" ctr="0.0" cost="0" pos="1.2" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="44277265916" keyword="Supermercados en El Salvador" kwType="Broad" kwStatus="Active" budget="940000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="44277313916" keyword="Anuncios en El Salvador" kwType="Broad" kwStatus="Active" budget="940000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.4" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="44277410276" keyword="Publicidad por Radio" kwType="Broad" kwStatus="Active" budget="940000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="RADIO SELECTOS" campaignid="118324316" adgroupid="4911205196" adgroup="Radio Selectos" keywordid="44277482516" keyword="Ofertas en El Salvador" kwType="Broad" kwStatus="Active" budget="940000" imps="207" clicks="1" ctr="0.004830917874396135" cost="200000" pos="3.0434782609" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="HASBUN MADRIZ JOSÉ SALOMON" campaignid="73805727" adgroupid="3057359847" adgroup="Blanqueamiento" keywordid="1600176098" keyword="Blanqueamiento de dientes" kwType="Broad" kwStatus="Active" budget="1600000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="HASBUN MADRIZ JOSÉ SALOMON" campaignid="73805727" adgroupid="3057359847" adgroup="Blanqueamiento" keywordid="1853998541" keyword="Blanqueamiento Dental" kwType="Broad" kwStatus="Active" budget="1600000" imps="9" clicks="0" ctr="0.0" cost="0" pos="1.1111111111" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="HASBUN MADRIZ JOSÉ SALOMON" campaignid="73805727" adgroupid="3057359847" adgroup="Blanqueamiento" keywordid="11824845958" keyword="Blanqueamiento Laser" kwType="Broad" kwStatus="Active" budget="1600000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="HASBUN MADRIZ JOSÉ SALOMON" campaignid="73805727" adgroupid="3058836927" adgroup="Implantes Dentales" keywordid="129078819" keyword="Implantes Dentales" kwType="Broad" kwStatus="Active" budget="1600000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="HASBUN MADRIZ JOSÉ SALOMON" campaignid="73805727" adgroupid="3058836927" adgroup="Implantes Dentales" keywordid="29972721687" keyword="Costos implantes Dentales" kwType="Broad" kwStatus="Active" budget="1600000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Mirador Plaza" campaignid="38342746" adgroupid="1618428466" adgroup="Hotel en el  Salvador" keywordid="3273650151" keyword="Hotel en El Salvador" kwType="Broad" kwStatus="Active" budget="20000000" imps="431" clicks="3" ctr="0.0069605568445475635" cost="550000" pos="4.8259860789" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Mirador Plaza" campaignid="38342746" adgroupid="1618428736" adgroup="Hotel Exclusivo" keywordid="23031115497" keyword="hotel 5 estrellas Salvador" kwType="Broad" kwStatus="Active" budget="20000000" imps="1" clicks="0" ctr="0.0" cost="0" pos="5.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Mirador Plaza" campaignid="38342746" adgroupid="1618429366" adgroup="Eventos Hotel" keywordid="87805609" keyword="Hotel El Salvador" kwType="Broad" kwStatus="Active" budget="20000000" imps="9" clicks="0" ctr="0.0" cost="0" pos="3.5555555556" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Mirador Plaza" campaignid="38342746" adgroupid="1618429366" adgroup="Eventos Hotel" keywordid="659159987" keyword="Salon Hotel" kwType="Broad" kwStatus="Active" budget="20000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="4.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Mirador Plaza" campaignid="38342746" adgroupid="1618429366" adgroup="Eventos Hotel" keywordid="3091573065" keyword="Salones Eventos" kwType="Broad" kwStatus="Active" budget="20000000" imps="112" clicks="5" ctr="0.044642857142857144" cost="5710000" pos="1.0089285714" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Mirador Plaza" campaignid="38342746" adgroupid="1618429366" adgroup="Eventos Hotel" keywordid="16362452296" keyword="Reuniones Hotel" kwType="Broad" kwStatus="Active" budget="20000000" imps="1" clicks="0" ctr="0.0" cost="0" pos="4.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Mirador Plaza" campaignid="38342746" adgroupid="1618429366" adgroup="Eventos Hotel" keywordid="16362452386" keyword="Eventos Hotel" kwType="Broad" kwStatus="Active" budget="20000000" imps="4" clicks="0" ctr="0.0" cost="0" pos="4.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Hotel Mirador Plaza" campaignid="38342746" adgroupid="1618429366" adgroup="Eventos Hotel" keywordid="16362452476" keyword="Estacionamiento Hotel" kwType="Broad" kwStatus="Active" budget="20000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="3.5" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4075754250" adgroup="CALZADO" keywordid="17316472" keyword="Calzado" kwType="Broad" kwStatus="Active" budget="800000" imps="6" clicks="0" ctr="0.0" cost="0" pos="1.1666666667" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4075758570" adgroup="ZAPATOS DE MODA" keywordid="29702544091" keyword="Calzado de Moda" kwType="Broad" kwStatus="Active" budget="800000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4075760850" adgroup="ALMACEN DE CALZADO" keywordid="5099761649" keyword="Calzado de Marca" kwType="Broad" kwStatus="Active" budget="800000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4075761450" adgroup="FLORSHEIM" keywordid="18591421" keyword="Florsheim" kwType="Broad" kwStatus="Active" budget="800000" imps="1" clicks="1" ctr="1.0" cost="80000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4075815570" adgroup="NINE WEST" keywordid="19470961" keyword="Nine West" kwType="Broad" kwStatus="Active" budget="800000" imps="12" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4075815930" adgroup="TIMBERLAND" keywordid="13274670" keyword="Timberland" kwType="Broad" kwStatus="Active" budget="800000" imps="10" clicks="1" ctr="0.1" cost="110000" pos="1.1" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4075816170" adgroup="STEVE MADDEN" keywordid="13274180" keyword="Steve Madden" kwType="Broad" kwStatus="Active" budget="800000" imps="2" clicks="1" ctr="0.5" cost="260000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4075842450" adgroup="ZAPATOS" keywordid="44200810" keyword="Zapatos" kwType="Broad" kwStatus="Active" budget="800000" imps="156" clicks="1" ctr="0.00641025641025641" cost="120000" pos="1.1153846154" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4075842450" adgroup="ZAPATOS" keywordid="341817616" keyword="Zapaterias" kwType="Broad" kwStatus="Active" budget="800000" imps="3" clicks="0" ctr="0.0" cost="0" pos="1.3333333333" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4084068210" adgroup="PARK AVENUE" keywordid="17250493" keyword="Park Avenue" kwType="Broad" kwStatus="Active" budget="800000" imps="1" clicks="1" ctr="1.0" cost="10000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PARK AVENUE SHOES" campaignid="98501970" adgroupid="4084068210" adgroup="PARK AVENUE" keywordid="38240149530" keyword="Park Avenue el Salvador" kwType="Broad" kwStatus="Active" budget="800000" imps="1" clicks="1" ctr="1.0" cost="70000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BENJAMIN VALDEZ Y ASOCIADOS" campaignid="64382290" adgroupid="2371894810" adgroup="Asesoria Legal" keywordid="18276092" keyword="Abogados" kwType="Broad" kwStatus="Active" budget="1000000" imps="81" clicks="1" ctr="0.012345679012345678" cost="40000" pos="2.3086419753" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BENJAMIN VALDEZ Y ASOCIADOS" campaignid="64382290" adgroupid="2371894810" adgroup="Asesoria Legal" keywordid="5464222913" keyword="Abogados en El Salvador" kwType="Broad" kwStatus="Active" budget="1000000" imps="102" clicks="1" ctr="0.00980392156862745" cost="170000" pos="1.9509803922" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BENJAMIN VALDEZ Y ASOCIADOS" campaignid="64382290" adgroupid="2371894810" adgroup="Asesoria Legal" keywordid="5616299252" keyword="Derecho Bursatil" kwType="Broad" kwStatus="Active" budget="1000000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BENJAMIN VALDEZ Y ASOCIADOS" campaignid="64382290" adgroupid="2371894810" adgroup="Asesoria Legal" keywordid="6162129767" keyword="Abogados y Notarios" kwType="Broad" kwStatus="Active" budget="1000000" imps="3" clicks="0" ctr="0.0" cost="0" pos="1.6666666667" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BENJAMIN VALDEZ Y ASOCIADOS" campaignid="64382290" adgroupid="2371894810" adgroup="Asesoria Legal" keywordid="29863247022" keyword="Legislacion Bancaria" kwType="Broad" kwStatus="Active" budget="1000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62752822" adgroupid="2250716422" adgroup="PROEMI SALVADOR" keywordid="415366831" keyword="Cuartos Frios" kwType="Broad" kwStatus="Active" budget="5620000" imps="5" clicks="1" ctr="0.2" cost="60000" pos="1.2" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62752942" adgroupid="2250717982" adgroup="PROEMI COSTA RICA" keywordid="26989272" keyword="Pasteleria" kwType="Broad" kwStatus="Active" budget="5620000" imps="150" clicks="1" ctr="0.006666666666666667" cost="350000" pos="1.74" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62752942" adgroupid="2250717982" adgroup="PROEMI COSTA RICA" keywordid="415366831" keyword="Cuartos Frios" kwType="Broad" kwStatus="Active" budget="5620000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.5" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62752942" adgroupid="2250717982" adgroup="PROEMI COSTA RICA" keywordid="934909242" keyword="Food Tools" kwType="Broad" kwStatus="Active" budget="5620000" imps="5" clicks="0" ctr="0.0" cost="0" pos="2.2" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62752942" adgroupid="2250717982" adgroup="PROEMI COSTA RICA" keywordid="11733012993" keyword="Maquinaria para Alimentos" kwType="Broad" kwStatus="Active" budget="5620000" imps="13" clicks="2" ctr="0.15384615384615385" cost="260000" pos="2.3076923077" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62752942" adgroupid="2250717982" adgroup="PROEMI COSTA RICA" keywordid="15625982435" keyword="Hornos para Panaderia" kwType="Broad" kwStatus="Active" budget="5620000" imps="12" clicks="0" ctr="0.0" cost="0" pos="1.25" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62752942" adgroupid="2254780582" adgroup="EQUIPOS PARA PANADERIA Y PASTELERIA" keywordid="26255595982" keyword="Equipos para Panaderia" kwType="Broad" kwStatus="Active" budget="5620000" imps="24" clicks="3" ctr="0.125" cost="260000" pos="1.0416666667" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62752942" adgroupid="2254783222" adgroup="REFRIGERACION" keywordid="66497226" keyword="Refrigeracion" kwType="Broad" kwStatus="Active" budget="5620000" imps="162" clicks="8" ctr="0.04938271604938271" cost="960000" pos="2.1543209877" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62752942" adgroupid="2259286822" adgroup="DOSIFICADORES PARA PANADERIA" keywordid="37392072" keyword="Dosificadores" kwType="Broad" kwStatus="Active" budget="5620000" imps="15" clicks="0" ctr="0.0" cost="0" pos="2.1333333333" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62753062" adgroupid="2250717862" adgroup="PROEMI GUATEMALA" keywordid="26989272" keyword="Pasteleria" kwType="Broad" kwStatus="Active" budget="5620000" imps="461" clicks="0" ctr="0.0" cost="0" pos="1.3622559653" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62753062" adgroupid="2250717862" adgroup="PROEMI GUATEMALA" keywordid="415366831" keyword="Cuartos Frios" kwType="Broad" kwStatus="Active" budget="5620000" imps="17" clicks="0" ctr="0.0" cost="0" pos="1.1176470588" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62753062" adgroupid="2250717862" adgroup="PROEMI GUATEMALA" keywordid="934909242" keyword="Food Tools" kwType="Broad" kwStatus="Active" budget="5620000" imps="4" clicks="0" ctr="0.0" cost="0" pos="2.25" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62753062" adgroupid="2250717862" adgroup="PROEMI GUATEMALA" keywordid="15625982435" keyword="Hornos para Panaderia" kwType="Broad" kwStatus="Active" budget="5620000" imps="44" clicks="1" ctr="0.022727272727272728" cost="250000" pos="1.3181818182" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62753062" adgroupid="2250717862" adgroup="PROEMI GUATEMALA" keywordid="20219685614" keyword="Maquinaria para Embutidos" kwType="Broad" kwStatus="Active" budget="5620000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62753062" adgroupid="2254782742" adgroup="CUARTOS CONGELADORES" keywordid="26337882" keyword="Congeladores" kwType="Broad" kwStatus="Active" budget="5620000" imps="158" clicks="0" ctr="0.0" cost="0" pos="2.0632911392" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="PROEMI" campaignid="62753062" adgroupid="2259268702" adgroup="DOSIFICADORES PARA PANADERIA" keywordid="37392072" keyword="Dosificadores" kwType="Broad" kwStatus="Active" budget="5620000" imps="46" clicks="3" ctr="0.06521739130434782" cost="340000" pos="1.3260869565" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="10979310" keyword="Flores" kwType="Broad" kwStatus="Active" budget="2280000" imps="126" clicks="3" ctr="0.023809523809523808" cost="710000" pos="1.6746031746" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="12482191" keyword="Santa Maria" kwType="Broad" kwStatus="Active" budget="2280000" imps="8" clicks="0" ctr="0.0" cost="0" pos="1.875" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="12585762" keyword="Jardines" kwType="Broad" kwStatus="Active" budget="2280000" imps="54" clicks="1" ctr="0.018518518518518517" cost="90000" pos="1.4814814815" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="13348632" keyword="Mantenimiento" kwType="Broad" kwStatus="Active" budget="2280000" imps="140" clicks="2" ctr="0.014285714285714285" cost="190000" pos="1.2" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="18567672" keyword="Plantas" kwType="Broad" kwStatus="Active" budget="2280000" imps="165" clicks="7" ctr="0.04242424242424243" cost="1080000" pos="1.4121212121" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="23966350" keyword="Landscape" kwType="Broad" kwStatus="Active" budget="2280000" imps="1" clicks="0" ctr="0.0" cost="0" pos="6.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="25005080" keyword="Fuente" kwType="Broad" kwStatus="Active" budget="2280000" imps="44" clicks="2" ctr="0.045454545454545456" cost="170000" pos="1.2954545455" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="28708203" keyword="Pergolas" kwType="Broad" kwStatus="Active" budget="2280000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.2" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="60743610" keyword="Vivero" kwType="Broad" kwStatus="Active" budget="2280000" imps="11" clicks="0" ctr="0.0" cost="0" pos="1.2727272727" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="95653929" keyword="Exteriores" kwType="Broad" kwStatus="Active" budget="2280000" imps="28" clicks="0" ctr="0.0" cost="0" pos="1.8214285714" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="269897741" keyword="Grama" kwType="Broad" kwStatus="Active" budget="2280000" imps="16" clicks="0" ctr="0.0" cost="0" pos="1.0625" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="273291130" keyword="Maceta" kwType="Broad" kwStatus="Active" budget="2280000" imps="3" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="396946288" keyword="Cascadas" kwType="Broad" kwStatus="Active" budget="2280000" imps="31" clicks="1" ctr="0.03225806451612903" cost="130000" pos="1.3548387097" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="788089788" keyword="El patio" kwType="Broad" kwStatus="Active" budget="2280000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="1182358479" keyword="Diseño de Jardines" kwType="Broad" kwStatus="Active" budget="2280000" imps="17" clicks="0" ctr="0.0" cost="0" pos="1.3529411765" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="1457439696" keyword="Ornamentales" kwType="Broad" kwStatus="Active" budget="2280000" imps="4" clicks="0" ctr="0.0" cost="0" pos="1.25" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="6904710644" keyword="Zacate" kwType="Broad" kwStatus="Active" budget="2280000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="14210252967" keyword="Construccion de Jardines" kwType="Broad" kwStatus="Active" budget="2280000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="20083851129" keyword="Arquitectura de Jardines" kwType="Broad" kwStatus="Active" budget="2280000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ORGANIKA, S.A. DE C.V." campaignid="75898526" adgroupid="2143257806" adgroup="JARDINES" keywordid="26701871726" keyword="Xochicali" kwType="Broad" kwStatus="Active" budget="2280000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="20851501" keyword="Transporte" kwType="Broad" kwStatus="Active" budget="1890000" imps="237" clicks="5" ctr="0.02109704641350211" cost="920000" pos="1.3291139241" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="22426470" keyword="Turismo" kwType="Broad" kwStatus="Active" budget="1890000" imps="252" clicks="1" ctr="0.003968253968253968" cost="280000" pos="2.1865079365" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="25709341" keyword="Viajes" kwType="Broad" kwStatus="Active" budget="1890000" imps="143" clicks="0" ctr="0.0" cost="0" pos="3.979020979" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="88832403" keyword="Excursiones" kwType="Broad" kwStatus="Active" budget="1890000" imps="6" clicks="0" ctr="0.0" cost="0" pos="1.6666666667" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="108948179" keyword="Paquetes Turisticos" kwType="Broad" kwStatus="Active" budget="1890000" imps="10" clicks="1" ctr="0.1" cost="130000" pos="3.2" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="609368711" keyword="Transporte Escolar" kwType="Broad" kwStatus="Active" budget="1890000" imps="16" clicks="1" ctr="0.0625" cost="100000" pos="2.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="1602095213" keyword="Transporte de personal" kwType="Broad" kwStatus="Active" budget="1890000" imps="4" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="2303022610" keyword="Transporte Turistico" kwType="Broad" kwStatus="Active" budget="1890000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="6025274793" keyword="Operadores de Turismo" kwType="Broad" kwStatus="Active" budget="1890000" imps="5" clicks="1" ctr="0.2" cost="170000" pos="3.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="6561733370" keyword="Transporte Empresarial" kwType="Broad" kwStatus="Active" budget="1890000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="33251395268" keyword="Turismo en el Salvador" kwType="Broad" kwStatus="Active" budget="1890000" imps="115" clicks="2" ctr="0.017391304347826087" cost="330000" pos="3.5913043478" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="33251395388" keyword="Tours en el Salvador" kwType="Broad" kwStatus="Active" budget="1890000" imps="38" clicks="0" ctr="0.0" cost="0" pos="2.7631578947" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ROBERT'S TOURS_CK3" campaignid="88491668" adgroupid="2649730388" adgroup="TURSIMO" keywordid="33251395508" keyword="Linea Ejecutiva" kwType="Broad" kwStatus="Active" budget="1890000" imps="1" clicks="0" ctr="0.0" cost="0" pos="2.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255424856" adgroup="SALAS DE TE" keywordid="4784343689" keyword="Salon de Recepciones" kwType="Broad" kwStatus="Active" budget="1000000" imps="25" clicks="1" ctr="0.04" cost="70000" pos="1.32" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255424856" adgroup="SALAS DE TE" keywordid="34884465936" keyword="Salas de Te" kwType="Broad" kwStatus="Active" budget="1000000" imps="15" clicks="1" ctr="0.06666666666666667" cost="190000" pos="1.2" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255426056" adgroup="DECORACION DE SALONES" keywordid="19361753" keyword="Alquileres" kwType="Broad" kwStatus="Active" budget="1000000" imps="59" clicks="0" ctr="0.0" cost="0" pos="1.9830508475" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255426056" adgroup="DECORACION DE SALONES" keywordid="40055201" keyword="Decoracion" kwType="Broad" kwStatus="Active" budget="1000000" imps="86" clicks="5" ctr="0.05813953488372093" cost="560000" pos="1.6395348837" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255426056" adgroup="DECORACION DE SALONES" keywordid="34885082376" keyword="Decoracion de Salones" kwType="Broad" kwStatus="Active" budget="1000000" imps="4" clicks="0" ctr="0.0" cost="0" pos="1.5" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255430256" adgroup="BANQUETES" keywordid="39793961" keyword="Banquetes" kwType="Broad" kwStatus="Active" budget="1000000" imps="6" clicks="1" ctr="0.16666666666666666" cost="10000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255430256" adgroup="BANQUETES" keywordid="448895100" keyword="Graduaciones" kwType="Broad" kwStatus="Active" budget="1000000" imps="7" clicks="0" ctr="0.0" cost="0" pos="1.1428571429" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255430256" adgroup="BANQUETES" keywordid="1014299046" keyword="Fiesta Rosa" kwType="Broad" kwStatus="Active" budget="1000000" imps="3" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255431816" adgroup="BODAS" keywordid="12637542" keyword="Bodas" kwType="Broad" kwStatus="Active" budget="1000000" imps="32" clicks="0" ctr="0.0" cost="0" pos="1.59375" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255431816" adgroup="BODAS" keywordid="26059041" keyword="Eventos" kwType="Broad" kwStatus="Active" budget="1000000" imps="21" clicks="1" ctr="0.047619047619047616" cost="60000" pos="1.1428571429" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255431816" adgroup="BODAS" keywordid="2334999713" keyword="Salones de Boda" kwType="Broad" kwStatus="Active" budget="1000000" imps="3" clicks="0" ctr="0.0" cost="0" pos="1.6666666667" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255432056" adgroup="CUMPLEAÑOS" keywordid="12834540" keyword="Baby Showers" kwType="Broad" kwStatus="Active" budget="1000000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255432056" adgroup="CUMPLEAÑOS" keywordid="46854760" keyword="Cumpleaños" kwType="Broad" kwStatus="Active" budget="1000000" imps="67" clicks="0" ctr="0.0" cost="0" pos="1.0447761194" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255432056" adgroup="CUMPLEAÑOS" keywordid="108571170" keyword="Quince Años" kwType="Broad" kwStatus="Active" budget="1000000" imps="34" clicks="2" ctr="0.058823529411764705" cost="170000" pos="1.1764705882" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255432536" adgroup="SALON DE EVENTOS" keywordid="19484693" keyword="Seminarios" kwType="Broad" kwStatus="Active" budget="1000000" imps="11" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255432536" adgroup="SALON DE EVENTOS" keywordid="49065371" keyword="Conferencias" kwType="Broad" kwStatus="Active" budget="1000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255432536" adgroup="SALON DE EVENTOS" keywordid="580713049" keyword="Organizacion de Eventos" kwType="Broad" kwStatus="Active" budget="1000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="LAYCO SALA DE TÉ Y RECEPCIONES" campaignid="103336776" adgroupid="4255432536" adgroup="SALON DE EVENTOS" keywordid="4007272472" keyword="Salon de Eventos" kwType="Broad" kwStatus="Active" budget="1000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="2.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DEL SOL_CK900" campaignid="70162390" adgroupid="2770444990" adgroup="TERAPIA EDUCATIVA" keywordid="13283632" keyword="Psicologia" kwType="Broad" kwStatus="Active" budget="1470000" imps="600" clicks="12" ctr="0.02" cost="1250000" pos="1.1066666667" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DEL SOL_CK900" campaignid="70162390" adgroupid="2770444990" adgroup="TERAPIA EDUCATIVA" keywordid="16046237" keyword="Autismo" kwType="Broad" kwStatus="Active" budget="1470000" imps="72" clicks="0" ctr="0.0" cost="0" pos="1.0277777778" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DEL SOL_CK900" campaignid="70162390" adgroupid="2770444990" adgroup="TERAPIA EDUCATIVA" keywordid="44360870" keyword="Pnl" kwType="Broad" kwStatus="Active" budget="1470000" imps="26" clicks="0" ctr="0.0" cost="0" pos="1.2692307692" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DEL SOL_CK900" campaignid="70162390" adgroupid="2770444990" adgroup="TERAPIA EDUCATIVA" keywordid="247206203" keyword="Hipnosis" kwType="Broad" kwStatus="Active" budget="1470000" imps="8" clicks="0" ctr="0.0" cost="0" pos="1.25" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DEL SOL_CK900" campaignid="70162390" adgroupid="2770444990" adgroup="TERAPIA EDUCATIVA" keywordid="2503485198" keyword="Superdotados" kwType="Broad" kwStatus="Active" budget="1470000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="CLÍNICA DEL SOL_CK900" campaignid="70162390" adgroupid="2770444990" adgroup="TERAPIA EDUCATIVA" keywordid="30611878750" keyword="deficit Atencional" kwType="Broad" kwStatus="Active" budget="1470000" imps="4" clicks="1" ctr="0.25" cost="200000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="INTERNATIONAL AUTOMOTRÍZ" campaignid="101725182" adgroupid="4182928302" adgroup="RENTA DE VEHICULOS" keywordid="117686355" keyword="Renta de Carros" kwType="Broad" kwStatus="Active" budget="1470000" imps="19" clicks="0" ctr="0.0" cost="0" pos="3.2105263158" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="INTERNATIONAL AUTOMOTRÍZ" campaignid="101725182" adgroupid="4182928302" adgroup="RENTA DE VEHICULOS" keywordid="539216206" keyword="Alquiler de Vehiculos" kwType="Broad" kwStatus="Active" budget="1470000" imps="21" clicks="1" ctr="0.047619047619047616" cost="140000" pos="2.7619047619" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="INTERNATIONAL AUTOMOTRÍZ" campaignid="101725182" adgroupid="4182928302" adgroup="RENTA DE VEHICULOS" keywordid="808241907" keyword="Alquiler de vehiculos El Salvador" kwType="Broad" kwStatus="Active" budget="1470000" imps="51" clicks="0" ctr="0.0" cost="0" pos="6.3725490196" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="INTERNATIONAL AUTOMOTRÍZ" campaignid="101725182" adgroupid="4182928302" adgroup="RENTA DE VEHICULOS" keywordid="4132077433" keyword="Renta de Vehículos" kwType="Broad" kwStatus="Active" budget="1470000" imps="3" clicks="0" ctr="0.0" cost="0" pos="4.6666666667" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="INTERNATIONAL AUTOMOTRÍZ" campaignid="101725182" adgroupid="4182928302" adgroup="RENTA DE VEHICULOS" keywordid="15685586251" keyword="Alquiler de Automóviles" kwType="Broad" kwStatus="Active" budget="1470000" imps="3" clicks="0" ctr="0.0" cost="0" pos="4.3333333333" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="INTERNATIONAL AUTOMOTRÍZ" campaignid="101725182" adgroupid="4182958422" adgroup="TRANSPORTE" keywordid="2303022610" keyword="Transporte Turistico" kwType="Broad" kwStatus="Active" budget="1470000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.5" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="INTERNATIONAL AUTOMOTRÍZ" campaignid="101725182" adgroupid="4182958422" adgroup="TRANSPORTE" keywordid="4074051403" keyword="Turismo en El Salvador" kwType="Broad" kwStatus="Active" budget="1470000" imps="446" clicks="7" ctr="0.01569506726457399" cost="950000" pos="3.2264573991" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="INTERNATIONAL AUTOMOTRÍZ" campaignid="101725182" adgroupid="4182958422" adgroup="TRANSPORTE" keywordid="39622730502" keyword="Tour el Salvador" kwType="Broad" kwStatus="Active" budget="1470000" imps="60" clicks="0" ctr="0.0" cost="0" pos="2.55" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="INTERNATIONAL AUTOMOTRÍZ" campaignid="101725182" adgroupid="4182958422" adgroup="TRANSPORTE" keywordid="44941872462" keyword="Transporte en El Salvador" kwType="Broad" kwStatus="Active" budget="1470000" imps="181" clicks="4" ctr="0.022099447513812154" cost="260000" pos="1.4917127072" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430432128" adgroup="MERCADOTECNIA" keywordid="39903403" keyword="Mercadotecnia" kwType="Broad" kwStatus="Active" budget="3620000" imps="39" clicks="1" ctr="0.02564102564102564" cost="130000" pos="1.2307692308" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430432128" adgroup="MERCADOTECNIA" keywordid="97638225" keyword="Tecnico" kwType="Broad" kwStatus="Active" budget="3620000" imps="50" clicks="0" ctr="0.0" cost="0" pos="1.16" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430432368" adgroup="ADMINISTRACION" keywordid="17412763" keyword="Administracion" kwType="Broad" kwStatus="Active" budget="3620000" imps="374" clicks="2" ctr="0.0053475935828877" cost="390000" pos="1.1818181818" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430432368" adgroup="ADMINISTRACION" keywordid="396421974" keyword="Administracion de Empresas" kwType="Broad" kwStatus="Active" budget="3620000" imps="12" clicks="1" ctr="0.08333333333333333" cost="100000" pos="2.5833333333" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430432488" adgroup="CONTADURIA" keywordid="2244598365" keyword="Contaduria Publica" kwType="Broad" kwStatus="Active" budget="3620000" imps="5" clicks="2" ctr="0.4" cost="260000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430432488" adgroup="CONTADURIA" keywordid="2410572762" keyword="Contaduria" kwType="Broad" kwStatus="Active" budget="3620000" imps="30" clicks="1" ctr="0.03333333333333333" cost="110000" pos="1.1" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430436208" adgroup="UNIVERSIDAD" keywordid="10189362" keyword="Universidad" kwType="Broad" kwStatus="Active" budget="3620000" imps="479" clicks="4" ctr="0.008350730688935281" cost="570000" pos="1.490605428" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430436208" adgroup="UNIVERSIDAD" keywordid="10189372" keyword="Universidades" kwType="Broad" kwStatus="Active" budget="3620000" imps="81" clicks="1" ctr="0.012345679012345678" cost="180000" pos="2.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430436208" adgroup="UNIVERSIDAD" keywordid="29198022" keyword="Panamericana" kwType="Broad" kwStatus="Active" budget="3620000" imps="23" clicks="0" ctr="0.0" cost="0" pos="1.0434782609" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430436208" adgroup="UNIVERSIDAD" keywordid="39921841" keyword="Educacion" kwType="Broad" kwStatus="Active" budget="3620000" imps="446" clicks="11" ctr="0.02466367713004484" cost="720000" pos="1.1928251121" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430436208" adgroup="UNIVERSIDAD" keywordid="78830121" keyword="Pedagogia" kwType="Broad" kwStatus="Active" budget="3620000" imps="52" clicks="1" ctr="0.019230769230769232" cost="20000" pos="1.1538461538" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430436208" adgroup="UNIVERSIDAD" keywordid="310482910" keyword="Upan" kwType="Broad" kwStatus="Active" budget="3620000" imps="10" clicks="1" ctr="0.1" cost="60000" pos="1.1" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430436208" adgroup="UNIVERSIDAD" keywordid="29416746848" keyword="Universidad el Salvador" kwType="Broad" kwStatus="Active" budget="3620000" imps="235" clicks="6" ctr="0.02553191489361702" cost="970000" pos="2.2553191489" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430436208" adgroup="UNIVERSIDAD" keywordid="29420447888" keyword="Universidad san Salvador" kwType="Broad" kwStatus="Active" budget="3620000" imps="73" clicks="1" ctr="0.0136986301369863" cost="130000" pos="1.5479452055" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="UNIVERSIDAD PANAMERICANA_CK3000" campaignid="87109088" adgroupid="2430436928" adgroup="BIBLIOTECA" keywordid="62486261" keyword="Biblioteca" kwType="Broad" kwStatus="Active" budget="3620000" imps="109" clicks="1" ctr="0.009174311926605505" cost="10000" pos="1.5596330275" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BELCORP. EL SALVADOR. SA DE CV" campaignid="64356738" adgroupid="2409376938" adgroup="Belleza" keywordid="1607278207" keyword="Moda para Mujeres" kwType="Broad" kwStatus="Active" budget="2280000" imps="68" clicks="1" ctr="0.014705882352941176" cost="190000" pos="1.6617647059" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BELCORP. EL SALVADOR. SA DE CV" campaignid="64356738" adgroupid="2409376938" adgroup="Belleza" keywordid="10767030033" keyword="Tratamientos de Belleza" kwType="Phrase" kwStatus="Active" budget="2280000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BELCORP. EL SALVADOR. SA DE CV" campaignid="64356738" adgroupid="2409377538" adgroup="L´Bel" keywordid="12701843044" keyword="Lbel" kwType="Phrase" kwStatus="Active" budget="2280000" imps="7" clicks="1" ctr="0.14285714285714285" cost="10000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BELCORP. EL SALVADOR. SA DE CV" campaignid="64356738" adgroupid="2409377538" adgroup="L´Bel" keywordid="31830539538" keyword="L Bel" kwType="Phrase" kwStatus="Active" budget="2280000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="BELCORP. EL SALVADOR. SA DE CV" campaignid="64356738" adgroupid="2409377898" adgroup="Cyzone" keywordid="31316274738" keyword="Productos cyzone" kwType="Broad" kwStatus="Active" budget="2280000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2363253593" adgroup="MULTICONGELADOS" keywordid="29866873" keyword="Alimentos Congelados" kwType="Broad" kwStatus="Active" budget="50000000" imps="8" clicks="2" ctr="0.25" cost="350000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2363253593" adgroup="MULTICONGELADOS" keywordid="261404387" keyword="Condimentos" kwType="Broad" kwStatus="Active" budget="50000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2363253593" adgroup="MULTICONGELADOS" keywordid="972691091" keyword="Refrigerados" kwType="Broad" kwStatus="Active" budget="50000000" imps="22" clicks="2" ctr="0.09090909090909091" cost="720000" pos="1.2272727273" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2363253593" adgroup="MULTICONGELADOS" keywordid="1280507949" keyword="Aderezos" kwType="Broad" kwStatus="Active" budget="50000000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2363253593" adgroup="MULTICONGELADOS" keywordid="2190788565" keyword="Comida Congelada" kwType="Broad" kwStatus="Active" budget="50000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2363253593" adgroup="MULTICONGELADOS" keywordid="13462869639" keyword="Papas Congeladas" kwType="Broad" kwStatus="Active" budget="50000000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2363253593" adgroup="MULTICONGELADOS" keywordid="31207887353" keyword="Deditos de Queso" kwType="Broad" kwStatus="Active" budget="50000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2363253593" adgroup="MULTICONGELADOS" keywordid="31208200313" keyword="Alimentos Embutidos" kwType="Broad" kwStatus="Active" budget="50000000" imps="3" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2581550993" adgroup="DISTRIBUIDORES" keywordid="3818510498" keyword="Distribuidoras de Alimentos" kwType="Broad" kwStatus="Active" budget="50000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2581550993" adgroup="DISTRIBUIDORES" keywordid="4707456946" keyword="Distribuidores de Alimentos" kwType="Broad" kwStatus="Active" budget="50000000" imps="4" clicks="0" ctr="0.0" cost="0" pos="1.25" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2581550993" adgroup="DISTRIBUIDORES" keywordid="35162318273" keyword="Distribuidores de alimentos el Salvador" kwType="Broad" kwStatus="Active" budget="50000000" imps="7" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2581563473" adgroup="EMPRESAS DE ALIMENTOS" keywordid="5655677327" keyword="Empresas de Alimentos" kwType="Broad" kwStatus="Active" budget="50000000" imps="35" clicks="4" ctr="0.11428571428571428" cost="1090000" pos="1.0571428571" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2581563473" adgroup="EMPRESAS DE ALIMENTOS" keywordid="35537001233" keyword="Empresas de alimentos en el Salvador" kwType="Broad" kwStatus="Active" budget="50000000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="Multicongelados" campaignid="76686833" adgroupid="2581568033" adgroup="PROVEEDORES" keywordid="35244828713" keyword="Proveedores de Alimentos" kwType="Broad" kwStatus="Active" budget="50000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ENVASES Y TUBOS S.A." campaignid="102606095" adgroupid="4625246855" adgroup="CENTROS DE CARTON" keywordid="48782370" keyword="Carton" kwType="Broad" kwStatus="Active" budget="1510000" imps="126" clicks="4" ctr="0.031746031746031744" cost="260000" pos="1.2301587302" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ENVASES Y TUBOS S.A." campaignid="102606095" adgroupid="4625246855" adgroup="CENTROS DE CARTON" keywordid="29180334430" keyword="Tubos de Carton" kwType="Broad" kwStatus="Active" budget="1510000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ENVASES Y TUBOS S.A." campaignid="102606095" adgroupid="4625246855" adgroup="CENTROS DE CARTON" keywordid="42680033615" keyword="Envases y Tubos" kwType="Broad" kwStatus="Active" budget="1510000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2712107341" adgroup="CASA INSTRUMENTAL" keywordid="15645302" keyword="Instrumentos Musicales" kwType="Broad" kwStatus="Active" budget="3280000" imps="126" clicks="3" ctr="0.023809523809523808" cost="90000" pos="1.0158730159" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2712107341" adgroup="CASA INSTRUMENTAL" keywordid="103427819" keyword="Music Center" kwType="Broad" kwStatus="Active" budget="3280000" imps="10" clicks="0" ctr="0.0" cost="0" pos="1.3" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2712107341" adgroup="CASA INSTRUMENTAL" keywordid="128840513" keyword="Instrumentos" kwType="Broad" kwStatus="Active" budget="3280000" imps="214" clicks="11" ctr="0.0514018691588785" cost="1130000" pos="1.1261682243" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2712107341" adgroup="CASA INSTRUMENTAL" keywordid="475201816" keyword="Radio Parts" kwType="Broad" kwStatus="Active" budget="3280000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.4" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2712107341" adgroup="CASA INSTRUMENTAL" keywordid="18328812578" keyword="Casa Instrumental" kwType="Broad" kwStatus="Active" budget="3280000" imps="15" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2712107341" adgroup="CASA INSTRUMENTAL" keywordid="32084608890" keyword="Ventas de Instrumentos Musicales" kwType="Broad" kwStatus="Active" budget="3280000" imps="3" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2712107341" adgroup="CASA INSTRUMENTAL" keywordid="32207024581" keyword="Electronica 2001" kwType="Broad" kwStatus="Active" budget="3280000" imps="89" clicks="6" ctr="0.06741573033707865" cost="750000" pos="1.0112359551" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2712107341" adgroup="CASA INSTRUMENTAL" keywordid="32320599661" keyword="Venta de Instrumentos" kwType="Broad" kwStatus="Active" budget="3280000" imps="9" clicks="0" ctr="0.0" cost="0" pos="1.7777777778" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2725346581" adgroup="GUITARRA" keywordid="15645282" keyword="Guitarra" kwType="Broad" kwStatus="Active" budget="3280000" imps="152" clicks="1" ctr="0.006578947368421052" cost="40000" pos="1.0986842105" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2725346581" adgroup="GUITARRA" keywordid="15646372" keyword="Guitarras" kwType="Broad" kwStatus="Active" budget="3280000" imps="36" clicks="1" ctr="0.027777777777777776" cost="280000" pos="1.0833333333" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2725354021" adgroup="TECLADOS" keywordid="13465310" keyword="Piano" kwType="Broad" kwStatus="Active" budget="3280000" imps="77" clicks="1" ctr="0.012987012987012988" cost="120000" pos="1.2467532468" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2725354021" adgroup="TECLADOS" keywordid="15977302" keyword="Teclado" kwType="Broad" kwStatus="Active" budget="3280000" imps="306" clicks="8" ctr="0.026143790849673203" cost="660000" pos="1.2777777778" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2725354021" adgroup="TECLADOS" keywordid="31598032" keyword="Teclados" kwType="Broad" kwStatus="Active" budget="3280000" imps="7" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2725354021" adgroup="TECLADOS" keywordid="202645058" keyword="Organos" kwType="Broad" kwStatus="Active" budget="3280000" imps="36" clicks="1" ctr="0.027777777777777776" cost="40000" pos="1.1111111111" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2725354261" adgroup="VIOLINES" keywordid="25927080" keyword="Violin" kwType="Broad" kwStatus="Active" budget="3280000" imps="33" clicks="1" ctr="0.030303030303030304" cost="60000" pos="1.1818181818" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2725354261" adgroup="VIOLINES" keywordid="49700170" keyword="Violines" kwType="Broad" kwStatus="Active" budget="3280000" imps="6" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="OMNI MUSIC S.A. DE C.V_CK1400" campaignid="65822701" adgroupid="2725643581" adgroup="MICROFONOS" keywordid="104348194" keyword="Microfonos" kwType="Broad" kwStatus="Active" budget="3280000" imps="29" clicks="0" ctr="0.0" cost="0" pos="1.3448275862" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="DISTRIBUIDORA TAMIRA S.A. DE C.V." campaignid="70339116" adgroupid="2896054116" adgroup="Muebles de Oficina" keywordid="14440161" keyword="sillas" kwType="Broad" kwStatus="Active" budget="1490000" imps="100" clicks="1" ctr="0.01" cost="200000" pos="1.7" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="DISTRIBUIDORA TAMIRA S.A. DE C.V." campaignid="70339116" adgroupid="2896054116" adgroup="Muebles de Oficina" keywordid="17834630" keyword="muebles de oficina" kwType="Broad" kwStatus="Active" budget="1490000" imps="17" clicks="2" ctr="0.11764705882352941" cost="100000" pos="1.6470588235" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="DISTRIBUIDORA TAMIRA S.A. DE C.V." campaignid="70339116" adgroupid="2896054116" adgroup="Muebles de Oficina" keywordid="23724510" keyword="muebles" kwType="Broad" kwStatus="Active" budget="1490000" imps="335" clicks="5" ctr="0.014925373134328358" cost="780000" pos="2.1611940299" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="DISTRIBUIDORA TAMIRA S.A. DE C.V." campaignid="70339116" adgroupid="2896054116" adgroup="Muebles de Oficina" keywordid="33593601" keyword="muebles para oficina" kwType="Broad" kwStatus="Active" budget="1490000" imps="36" clicks="4" ctr="0.1111111111111111" cost="590000" pos="1.2777777778" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="DISTRIBUIDORA TAMIRA S.A. DE C.V." campaignid="70339116" adgroupid="2896054116" adgroup="Muebles de Oficina" keywordid="46673972" keyword="sillas de oficina" kwType="Broad" kwStatus="Active" budget="1490000" imps="10" clicks="1" ctr="0.1" cost="120000" pos="2.4" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="DISTRIBUIDORA TAMIRA S.A. DE C.V." campaignid="70339116" adgroupid="2896054116" adgroup="Muebles de Oficina" keywordid="59954287" keyword="Armarios" kwType="Broad" kwStatus="Active" budget="1490000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.8" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="DISTRIBUIDORA TAMIRA S.A. DE C.V." campaignid="70339116" adgroupid="2896054116" adgroup="Muebles de Oficina" keywordid="2060157669" keyword="divisiones modulares" kwType="Broad" kwStatus="Active" budget="1490000" imps="4" clicks="0" ctr="0.0" cost="0" pos="2.5" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="DISTRIBUIDORA TAMIRA S.A. DE C.V." campaignid="70339116" adgroupid="2897005116" adgroup="Cajas de Seguridad" keywordid="17709167" keyword="cajas de seguridad" kwType="Broad" kwStatus="Active" budget="1490000" imps="6" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="VELÁSQUEZ GRANADOS Y CÍA" campaignid="65183466" adgroupid="2580645546" adgroup="AUDITORIA EXTERNA" keywordid="1735455236" keyword="Auditoria Externa" kwType="Broad" kwStatus="Active" budget="10000000" imps="29" clicks="0" ctr="0.0" cost="0" pos="1.4482758621" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="VELÁSQUEZ GRANADOS Y CÍA" campaignid="65183466" adgroupid="2580645666" adgroup="CONSULTORIAS EMPRESARIALES" keywordid="11245829778" keyword="Consultorias Empresariales" kwType="Broad" kwStatus="Active" budget="10000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="VELÁSQUEZ GRANADOS Y CÍA" campaignid="65183466" adgroupid="2580658746" adgroup="AUDITORIA FISCAL" keywordid="1826560539" keyword="Auditoria Fiscal" kwType="Broad" kwStatus="Active" budget="10000000" imps="6" clicks="1" ctr="0.16666666666666666" cost="180000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="VELÁSQUEZ GRANADOS Y CÍA" campaignid="65183466" adgroupid="2580658746" adgroup="AUDITORIA FISCAL" keywordid="29318194986" keyword="Auditoria fiscal el Salvador" kwType="Broad" kwStatus="Active" budget="10000000" imps="5" clicks="1" ctr="0.2" cost="40000" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="VELÁSQUEZ GRANADOS Y CÍA" campaignid="65183466" adgroupid="2580660906" adgroup="LEGALIZACIONES" keywordid="483577156" keyword="Legalizaciones" kwType="Broad" kwStatus="Active" budget="10000000" imps="2" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="VELÁSQUEZ GRANADOS Y CÍA" campaignid="65183466" adgroupid="2580662706" adgroup="CONSULTORIAS FISCALES" keywordid="447874457" keyword="Consultoria Fiscal" kwType="Broad" kwStatus="Active" budget="10000000" imps="1" clicks="0" ctr="0.0" cost="0" pos="1.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ALUMINIOS SALVADOREÑOS S.A. DE C.V." campaignid="191998846" adgroupid="2970027886" adgroup="Cacerolas" keywordid="1760403201" keyword="Cacerolas" kwType="Broad" kwStatus="Active" budget="1490000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.2" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="ALUMINIOS SALVADOREÑOS S.A. DE C.V." campaignid="191998846" adgroupid="2970028606" adgroup="Utensilios" keywordid="2269243821" keyword="Utensilios de Cocina" kwType="Broad" kwStatus="Active" budget="1490000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.6" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="GRICENTER S.A. DE C.V." campaignid="72228803" adgroupid="2642193923" adgroup="HERRAMIENTAS" keywordid="790196898" keyword="Herramientas ferreteria" kwType="Broad" kwStatus="Active" budget="2280000" imps="5" clicks="0" ctr="0.0" cost="0" pos="1.4" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="GRICENTER S.A. DE C.V." campaignid="72228803" adgroupid="2642193923" adgroup="HERRAMIENTAS" keywordid="33785550083" keyword="Podadora de cesped" kwType="Broad" kwStatus="Active" budget="2280000" imps="1" clicks="0" ctr="0.0" cost="0" pos="2.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="GRICENTER S.A. DE C.V." campaignid="72228803" adgroupid="2642194283" adgroup="MARCAS" keywordid="11717390" keyword="black &amp; decker" kwType="Broad" kwStatus="Active" budget="2280000" imps="1" clicks="0" ctr="0.0" cost="0" pos="2.0" conv="0" convRate="0.0">
+      </row>
+      <row date="2012-02-27" acctname="GRICENTER S.A. DE C.V." campaignid="72228803" adgroupid="2642194283" adgroup="MARCAS" keywordid="63687288" keyword="Pfister" kwType="Broad" kwStatus="Active" budget="2280000" imps="1" clicks="0" ctr="0.0" cost="0" pos="3.0" conv="0" convRate="0.0">
+      </row>
+    </rows>
+  </table>
+  <totals>
+    <subtotal imps="10917" clicks="225" ctr="0.020610057708161583" cost="35150000" pos="1.907483741" conv="0" convRate="0.0" name="2012-02-27">
+    </subtotal>
+    <grandtotal imps="10917" clicks="225" ctr="0.020610057708161583" cost="35150000" pos="1.907483741" conv="0" convRate="0.0">
+    </grandtotal>
+  </totals>
+</report>

@@ -1,0 +1,8 @@
+C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\samples\bin\Debug\samples.exe.config
+C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\samples\bin\Debug\samples.exe
+C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\samples\bin\Debug\samples.pdb
+C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\samples\bin\Debug\LibCurlNet.dll
+C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\samples\bin\Debug\LibCurlNet.pdb
+C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\samples\obj\Debug\samples.csprojResolveAssemblyReference.cache
+C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\samples\obj\Debug\samples.exe
+C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\LibCurlNet\samples\obj\Debug\samples.pdb

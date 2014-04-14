@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "ExtraerUrlSiteMapsGuru", "ExtraerUrlSiteMapsGuru\ExtraerUrlSiteMapsGuru.dtproj", "{7A92A6F8-0FC1-477F-9641-16C17D4B913A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A92A6F8-0FC1-477F-9641-16C17D4B913A}.Development|Default.ActiveCfg = Development
+		{7A92A6F8-0FC1-477F-9641-16C17D4B913A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

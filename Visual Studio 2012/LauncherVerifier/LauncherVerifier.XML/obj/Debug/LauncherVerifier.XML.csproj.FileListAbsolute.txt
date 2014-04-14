@@ -1,0 +1,7 @@
+C:\Users\p-oscbui\Documents\Visual Studio 2010\Projects\LauncherVerifier\LauncherVerifier.XML\bin\Debug\LauncherVerifier.XML.dll
+C:\Users\p-oscbui\Documents\Visual Studio 2010\Projects\LauncherVerifier\LauncherVerifier.XML\bin\Debug\LauncherVerifier.XML.pdb
+C:\Users\p-oscbui\Documents\Visual Studio 2010\Projects\LauncherVerifier\LauncherVerifier.XML\bin\Debug\LauncherVerifier.Models.dll
+C:\Users\p-oscbui\Documents\Visual Studio 2010\Projects\LauncherVerifier\LauncherVerifier.XML\bin\Debug\LauncherVerifier.Models.pdb
+C:\Users\p-oscbui\Documents\Visual Studio 2010\Projects\LauncherVerifier\LauncherVerifier.XML\obj\Debug\LauncherVerifier.XML.csprojResolveAssemblyReference.cache
+C:\Users\p-oscbui\Documents\Visual Studio 2010\Projects\LauncherVerifier\LauncherVerifier.XML\obj\Debug\LauncherVerifier.XML.dll
+C:\Users\p-oscbui\Documents\Visual Studio 2010\Projects\LauncherVerifier\LauncherVerifier.XML\obj\Debug\LauncherVerifier.XML.pdb
