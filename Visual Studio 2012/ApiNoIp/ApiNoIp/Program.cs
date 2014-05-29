@@ -8,6 +8,7 @@ namespace ApiNoIp
 {
     class Program
     {
+        #region Const
         private const string _pathLog = "NoIpLop{0}.txt";
 
         private const string _urlNoIp = "https://www.noip.com/api/mdns/api-rpc.php";
@@ -20,23 +21,25 @@ namespace ApiNoIp
 
         private const string _noipAddCname = "noipAddCname";
 
-        private const string _email = "dns@publicar.com";
+        private const string _noipRemoveHost = "noipDeleteDomain";
 
-        private const string _customer_id = "publicar_dns";
+        private const string _email = "udigital@carvajal.com";
 
-        private const string _domain = "www.unidaddigital10.com";
+        private const string _customer_id = "carvajal_dns";
+
+        private const string _domain = "prueba.soporte1.com";
 
         private const string _package = "plus";
 
-        private const string _default_ip = "107.23.132.196";
+        private const string _default_ip = "54.84.219.185";
 
-        private const string _ip = "107.23.132.196";
+        private const string _ip = "54.84.219.185";
 
         private const string _mx1 = "sitemail.everyone.net";
 
         private const string _mx2 = "sitemail2.everyone.net";
 
-        private const string _group_name = "UnidadDigital";
+        private const string _group_name = "";
 
         private const string _targetCorreo = "siteurl.everyone.net";
 
@@ -63,17 +66,56 @@ namespace ApiNoIp
             public const string _imap = "imap";
         }
 
+        #endregion
+
+        #region Methods
         public static void Main(string[] args)
+        {
+            AddSubDomain();
+            Console.Read();
+        }
+
+        private static void AddDomain()
         {
             try
             {
-                ValuesNoIp.AddDomain valuesNoIpAddDomain = new ValuesNoIp.AddDomain { cmd = _noipAddDomain, email = _email, customer_id = _customer_id, domain = _domain, package = _package, default_ip = _default_ip };
+                ValuesNoIp.AddDomain valuesNoIpAddDomain = new ValuesNoIp.AddDomain
+                {
+                    cmd = _noipAddDomain,
+                    email = _email,
+                    customer_id = _customer_id,
+                    domain = _domain,
+                    package = _package,
+                    default_ip = _default_ip
+                };
                 SendPost(valuesNoIpAddDomain);
 
-                ValuesNoIp.ModifyHost valuesNoIpModifyHost = new ValuesNoIp.ModifyHost { cmd = _noipModifyHost, email = _email, customer_id = _customer_id, host = "-", domain = _domain, ip = _default_ip, mx = new string[] { _mx1, _mx2 }, group_name = _group_name };
+                ValuesNoIp.ModifyHost valuesNoIpModifyHost = new ValuesNoIp.ModifyHost
+                {
+                    cmd = _noipModifyHost,
+                    email = _email,
+                    customer_id = _customer_id,
+                    host = "-",
+                    domain = _domain,
+                    ip = _default_ip,
+                    mx = new string[] 
+                    {
+                        _mx1,
+                        _mx2 
+                    },
+                    group_name = _group_name
+                };
                 SendPost(valuesNoIpModifyHost);
 
-                ValuesNoIp.AddCname valuesNoIpAddCname = new ValuesNoIp.AddCname { cmd = _noipAddCname, email = _email, customer_id = _customer_id, domain = _domain, host = Host._www, target = _domain };
+                ValuesNoIp.AddCname valuesNoIpAddCname = new ValuesNoIp.AddCname
+                {
+                    cmd = _noipAddCname,
+                    email = _email,
+                    customer_id = _customer_id,
+                    domain = _domain,
+                    host = Host._www,
+                    target = _domain
+                };
                 SendPost(valuesNoIpAddCname);
 
                 valuesNoIpAddCname.host = Host._correo;
@@ -100,8 +142,93 @@ namespace ApiNoIp
             {
                 Console.WriteLine(exception.Message);
             }
+        }
 
-            Console.Read();
+        private static void AddSubDomain()
+        {
+            try
+            {
+                ValuesNoIp.AddCname valuesNoIpAddCname = new ValuesNoIp.AddCname
+                {
+                    cmd = _noipAddCname,
+                    email = "dns@publicar.com",
+                    customer_id = "publicar_dns",
+                    domain = "prueba.carvajalinformacion.com",
+                    host = "prueba",
+                    target = "carvajalinformacion.com"
+                };
+                SendPost(valuesNoIpAddCname);
+            }
+            catch (Exception exception)
+            {
+                Console.WriteLine(exception.Message);
+            }
+        }
+
+        private static void ModifyDomain()
+        {
+            try
+            {
+                ValuesNoIp.ModifyHost valuesNoIpModifyHost = new ValuesNoIp.ModifyHost
+                {
+                    cmd = _noipModifyHost,
+                    email = _email,
+                    customer_id = _customer_id,
+                    host = "-",
+                    domain = _domain,
+                    ip = _default_ip,
+                    mx = new string[] { _mx1, _mx2 },
+                    group_name = _group_name
+                };
+                SendPost(valuesNoIpModifyHost);
+
+                ValuesNoIp.AddCname valuesNoIpAddCname = new ValuesNoIp.AddCname
+                {
+                    cmd = _noipAddCname,
+                    email = _email,
+                    customer_id = _customer_id,
+                    domain = _domain,
+                    host = Host._www,
+                    target = _domain
+                };
+                SendPost(valuesNoIpAddCname);
+
+                valuesNoIpAddCname.host = Host._correo;
+                valuesNoIpAddCname.target = _targetCorreo;
+                SendPost(valuesNoIpAddCname);
+
+                valuesNoIpAddCname.host = Host._webmail;
+                valuesNoIpAddCname.target = _targetWebmail;
+                SendPost(valuesNoIpAddCname);
+
+                valuesNoIpAddCname.host = Host._pop;
+                valuesNoIpAddCname.target = _targetPop;
+                SendPost(valuesNoIpAddCname);
+
+                valuesNoIpAddCname.host = Host._smtp;
+                valuesNoIpAddCname.target = _targetSmtp;
+                SendPost(valuesNoIpAddCname);
+
+                valuesNoIpAddCname.host = Host._imap;
+                valuesNoIpAddCname.target = _targetImap;
+                SendPost(valuesNoIpAddCname);
+            }
+            catch (Exception exception)
+            {
+                Console.WriteLine(exception.Message);
+            }
+        }
+
+        private static void RemoveDomain()
+        {
+            ValuesNoIp.RemoveDomain jsonNoIpRemoveDomain = new ValuesNoIp.RemoveDomain
+            {
+                cmd = _noipRemoveHost,
+                email = _email,
+                customer_id = _customer_id,
+                domain = _domain
+            };
+            SendPost(jsonNoIpRemoveDomain);
         }
 
         private static void SendPost(ValuesNoIp.IValuesNoIp valuesNoIp)
@@ -119,7 +246,12 @@ namespace ApiNoIp
 
                 readerResponse.Close();
 
-                RegisterLog(new Log() { dateTime = DateTime.Now, valuesNoIP = valuesNoIp, resultNoIp = resultNoIP });
+                RegisterLog(new Log()
+                {
+                    dateTime = DateTime.Now,
+                    valuesNoIP = valuesNoIp,
+                    resultNoIp = resultNoIP
+                });
 
                 if (resultNoIP.result != _codeResultSuccesful)
                     throw new Exception(resultNoIP.error);
@@ -224,5 +356,6 @@ namespace ApiNoIp
                 streamLog.Close();
             }
         }
+        #endregion
     }
 }

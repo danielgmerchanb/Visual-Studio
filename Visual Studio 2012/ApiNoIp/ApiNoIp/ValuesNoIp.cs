@@ -123,5 +123,43 @@ namespace ApiNoIp
             [DataMember]
             public string target { get; set; }
         }
+
+        /// <summary>
+        /// Class encapsulates parameters for remove existing domain.
+        /// </summary>
+        [KnownTypeAttribute(typeof(RemoveDomain))]
+        [DataContract]
+        public struct RemoveDomain : IValuesNoIp
+        {
+            /// <summary>
+            /// Name of the command sent to NoIp.
+            /// </summary>
+            [DataMember]
+            public string cmd { get; set; }
+
+            /// <summary>
+            /// Email sent to NoIp.
+            /// </summary>
+            [DataMember]
+            public string email { get; set; }
+
+            /// <summary>
+            /// Customer Identifier sent to NoIp.
+            /// </summary>
+            [DataMember]
+            public string customer_id { get; set; }
+
+            private string internalDomain;
+
+            /// <summary>
+            /// Namehost sent to NoIp.
+            /// </summary>
+            [DataMember]
+            public string domain
+            {
+                get { return this.internalDomain; }
+                set { this.internalDomain = ValuesNoIp.RemoveWww(value); }
+            }
+        }
     }
 }
