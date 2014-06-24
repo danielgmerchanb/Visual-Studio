@@ -23,17 +23,19 @@ namespace ApiNoIp
 
         private const string _noipRemoveHost = "noipDeleteDomain";
 
-        private const string _email = "udigital@carvajal.com";
+        //private const string _email = "udigital@carvajal.com";
+        private const string _email = "dns@publicar.com";
 
-        private const string _customer_id = "carvajal_dns";
+        //private const string _customer_id = "carvajal_dns";
+        private const string _customer_id = "publicar_dns";
 
-        private const string _domain = "prueba.soporte1.com";
+        private const string _domain = "estefanultralab.com";
 
         private const string _package = "plus";
 
-        private const string _default_ip = "54.84.219.185";
+        private const string _default_ip = "107.23.132.196";
 
-        private const string _ip = "54.84.219.185";
+        private const string _ip = "107.23.132.196";
 
         private const string _mx1 = "sitemail.everyone.net";
 
@@ -71,7 +73,7 @@ namespace ApiNoIp
         #region Methods
         public static void Main(string[] args)
         {
-            AddSubDomain();
+            AddDomain();
             Console.Read();
         }
 
