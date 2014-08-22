@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDNS", "TestDNS\TestDNS.csproj", "{30B70A23-695E-4837-A71B-8A8193C47B9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heijden.Dns", "Heijden.Dns\Heijden.Dns.csproj", "{26752ADE-E7B5-466E-B80F-4A95BA6D9F7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{30B70A23-695E-4837-A71B-8A8193C47B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30B70A23-695E-4837-A71B-8A8193C47B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30B70A23-695E-4837-A71B-8A8193C47B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26752ADE-E7B5-466E-B80F-4A95BA6D9F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26752ADE-E7B5-466E-B80F-4A95BA6D9F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26752ADE-E7B5-466E-B80F-4A95BA6D9F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26752ADE-E7B5-466E-B80F-4A95BA6D9F7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

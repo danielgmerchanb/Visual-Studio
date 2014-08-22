@@ -22,6 +22,10 @@ namespace TestDNS
 
         private static string comma = ConfigurationManager.AppSettings["comma"];
 
+        private static string space = " ";
+
+        private static string tab = "       ";
+
         private static string finishMessage = ConfigurationManager.AppSettings["finishMessage"];
 
         private static object thisObject = new object();
@@ -110,11 +114,26 @@ namespace TestDNS
             return hostAddresses;
         }
 
+        private static List<RecordMX> GetRecordsMX(string domain)
+        {
+            List<RecordMX> recordsMX = new List<RecordMX>();
+            DnsServer dnsServer = new DnsServer();
+
+            try
+            {
+                recordsMX = dnsServer.MxRecords(domain);
+            }
+            catch { }
+
+            return recordsMX;
+        }
+
         private static void GetHostAddressesList(object hostnameList)
         {
             foreach (Hostname hostname in (List<Hostname>)hostnameList)
             {
                 hostname.HostAddresses = GetHostAddresses(hostname.Domain);
+                hostname.RecordsMX = GetRecordsMX(hostname.Domain);
             }
 
             lock (thisObject)
@@ -123,7 +142,12 @@ namespace TestDNS
                 {
                     foreach (Hostname hostname in (List<Hostname>)hostnameList)
                     {
-                        streamWriter.WriteLine(hostname.Domain + comma + hostname.HostAddresses);
+                        streamWriter.WriteLine(hostname.Domain + comma + hostname.HostAddresses + space);
+                        foreach (RecordMX item in hostname.RecordsMX)
+                        {
+                            streamWriter.Write(tab + item.Exchange + space);
+                        }
+                        streamWriter.WriteLine();
                     }
 
                     streamWriter.Close();
@@ -139,6 +163,17 @@ namespace TestDNS
         {
             public string Domain { get; set; }
             public string HostAddresses { get; set; }
+            public List<RecordMX> RecordsMX { get; set; }
+            public Hostname()
+            {
+                RecordsMX = new List<RecordMX>();
+            }
+        }
+
+        public class RecordMX
+        {
+            public string Preference { get; set; }
+            public string Exchange { get; set; }
         }
         #endregion
     }
