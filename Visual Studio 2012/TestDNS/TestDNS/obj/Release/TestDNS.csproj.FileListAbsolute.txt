@@ -1,5 +1,0 @@
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\TestDNS\TestDNS\bin\Release\TestDNS.exe.config
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\TestDNS\TestDNS\bin\Release\TestDNS.exe
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\TestDNS\TestDNS\bin\Release\TestDNS.pdb
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\TestDNS\TestDNS\obj\Release\TestDNS.exe
-C:\Users\danmerbe\Documents\Visual Studio 2012\Projects\TestDNS\TestDNS\obj\Release\TestDNS.pdb
