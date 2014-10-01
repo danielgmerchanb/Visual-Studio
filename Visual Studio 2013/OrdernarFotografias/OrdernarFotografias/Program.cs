@@ -17,16 +17,16 @@ namespace OrdernarFotografias
 
         private static StreamWriter streamWriter;
 
-        private static string rutaArchivoHash = @"D:\HashFotos.txt";
+        private static string rutaArchivoHash = @"D:\OrdenarFotografias\HashFotos.txt";
 
         public static void Main(string[] args)
         {
             try
             {
-                string rutaCarpetaFotos = @"D:\Fotos";
-                string rutaCarpetaOrganizado = @"D:\Organizado";
-                string rutaCarpetaBorrado = @"D:\Borrados";
-                string rutaCarpetaOtros = @"D:\Otros";
+                string rutaCarpetaFotos = @"D:\OrdenarFotografias\Fotos";
+                string rutaCarpetaOrganizado = @"D:\OrdenarFotografias\Organizado";
+                string rutaCarpetaBorrado = @"D:\OrdenarFotografias\Borrados";
+                string rutaCarpetaOtros = @"D:\OrdenarFotografias\Otros";
 
                 CargarArchivoHash();
                 AbrirArchivoHash();
